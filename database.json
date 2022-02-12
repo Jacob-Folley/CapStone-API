@@ -1,0 +1,3145 @@
+{
+  "showInput": [
+    {
+      "id": "tt0317248",
+      "rank": "22",
+      "title": "City of God",
+      "fullTitle": "City of God (2002)",
+      "year": "2002",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX128_CR0,3,128,176_AL_.jpg",
+      "crew": "Fernando Meirelles (dir.), Alexandre Rodrigues, Leandro Firmino",
+      "imDbRating": "8.6",
+      "imDbRatingCount": "727492"
+    },
+    {
+      "id": "tt0080684",
+      "rank": "15",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "fullTitle": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+      "year": "1980",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX128_CR0,3,128,176_AL_.jpg",
+      "crew": "Irvin Kershner (dir.), Mark Hamill, Harrison Ford",
+      "imDbRating": "8.7",
+      "imDbRatingCount": "1217354"
+    },
+    {
+      "id": "tt0108052",
+      "rank": "6",
+      "title": "Schindler's List",
+      "fullTitle": "Schindler's List (1993)",
+      "year": "1993",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX128_CR0,3,128,176_AL_.jpg",
+      "crew": "Steven Spielberg (dir.), Liam Neeson, Ralph Fiennes",
+      "imDbRating": "8.9",
+      "imDbRatingCount": "1280174"
+    },
+    {
+      "id": "tt1375666",
+      "rank": "13",
+      "title": "Inception",
+      "fullTitle": "Inception (2010)",
+      "year": "2010",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX128_CR0,3,128,176_AL_.jpg",
+      "crew": "Christopher Nolan (dir.), Leonardo DiCaprio, Joseph Gordon-Levitt",
+      "imDbRating": "8.7",
+      "imDbRatingCount": "2199639"
+    },
+    {
+      "id": "tt0120689",
+      "rank": "29",
+      "title": "The Green Mile",
+      "fullTitle": "The Green Mile (1999)",
+      "year": "1999",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UX128_CR0,3,128,176_AL_.jpg",
+      "crew": "Frank Darabont (dir.), Tom Hanks, Michael Clarke Duncan",
+      "imDbRating": "8.5",
+      "imDbRatingCount": "1217720"
+    },
+    {
+      "id": "tt0102926",
+      "rank": "21",
+      "title": "The Silence of the Lambs",
+      "fullTitle": "The Silence of the Lambs (1991)",
+      "year": "1991",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX128_CR0,3,128,176_AL_.jpg",
+      "crew": "Jonathan Demme (dir.), Jodie Foster, Anthony Hopkins",
+      "imDbRating": "8.6",
+      "imDbRatingCount": "1347550"
+    },
+    {
+      "id": "tt0114369",
+      "rank": "20",
+      "title": "Se7en",
+      "fullTitle": "Se7en (1995)",
+      "year": "1995",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX128_CR0,3,128,176_AL_.jpg",
+      "crew": "David Fincher (dir.), Morgan Freeman, Brad Pitt",
+      "imDbRating": "8.6",
+      "imDbRatingCount": "1536609"
+    }
+  ],
+  "seriesInput": [
+    {
+      "id": "tt5491994",
+      "rank": "1",
+      "title": "Planet Earth II",
+      "fullTitle": "Planet Earth II (2016)",
+      "year": "2016",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWYxODViMGYtMGE2ZC00ZGQ3LThhMWUtYTVkNGE3OWU4NWRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX128_CR0,3,128,176_AL_.jpg",
+      "crew": "David Attenborough, Chadden Hunter",
+      "imDbRating": "9.5",
+      "imDbRatingCount": "106747"
+    },
+    {
+      "id": "tt0944947",
+      "rank": "13",
+      "title": "Game of Thrones",
+      "fullTitle": "Game of Thrones (2011)",
+      "year": "2011",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY176_CR0,0,128,176_AL_.jpg",
+      "crew": "Emilia Clarke, Peter Dinklage",
+      "imDbRating": "9.2",
+      "imDbRatingCount": "1910214"
+    },
+    {
+      "id": "tt2861424",
+      "rank": "14",
+      "title": "Rick and Morty",
+      "fullTitle": "Rick and Morty (2013)",
+      "year": "2013",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX128_CR0,3,128,176_AL_.jpg",
+      "crew": "Justin Roiland, Chris Parnell",
+      "imDbRating": "9.1",
+      "imDbRatingCount": "445966"
+    }
+  ],
+  "animeInput": [
+    {
+      "id": "tt0318871",
+      "title": "Berserk",
+      "year": "1997–1998",
+      "image": "https://imdb-api.com/images/original/MV5BYWE1YTU4NmYtMTY2Ni00NDIxLTgwMzYtNWJjYWE4MDE5OTE1XkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.7200_AL_.jpg",
+      "imDbRating": "8.7"
+    },
+    {
+      "id": "tt0388629",
+      "title": "One Piece",
+      "year": "1999– ",
+      "image": "https://imdb-api.com/images/original/MV5BODcwNWE3OTMtMDc3MS00NDFjLWE1OTAtNDU3NjgxODMxY2UyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+      "imDbRating": "8.8"
+    },
+    {
+      "id": "tt2098220",
+      "title": "Hunter x Hunter",
+      "year": "2011–2014",
+      "image": "https://imdb-api.com/images/original/MV5BZjNmZDhkN2QtNDYyZC00YzJmLTg0ODUtN2FjNjhhMzE3ZmUxXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6800_AL_.jpg",
+      "imDbRating": "9"
+    },
+    {
+      "id": "tt0214341",
+      "title": "Dragon Ball Z",
+      "year": "1989–2003",
+      "image": "https://imdb-api.com/images/original/MV5BNGM5MTEyZDItZWNhOS00NzNkLTgwZTAtNWIzY2IzZmExOWMxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6800_AL_.jpg",
+      "imDbRating": "8.7"
+    },
+    {
+      "id": "tt11032374",
+      "title": "Demon Slayer: Mugen Train",
+      "year": "2020",
+      "image": "https://imdb-api.com/images/original/MV5BODI2NjdlYWItMTE1ZC00YzI2LTlhZGQtNzE3NzA4MWM0ODYzXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_Ratio0.6800_AL_.jpg",
+      "imDbRating": "8.2"
+    },
+    {
+      "id": "tt0245429",
+      "title": "Spirited Away",
+      "originalTitle": "Sen to Chihiro no kamikakushi",
+      "fullTitle": "Spirited Away (2001)",
+      "type": "Movie",
+      "year": "2001",
+      "image": "https://imdb-api.com/images/original/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6791_AL_.jpg",
+      "releaseDate": "2001-07-20",
+      "runtimeMins": "125",
+      "runtimeStr": "2h 5mins",
+      "plot": "Chihiro and her parents are moving to a small Japanese town in the countryside, much to Chihiro's dismay. On the way to their new home, Chihiro's father makes a wrong turn and drives down a lonely one-lane road which dead-ends in front of a tunnel. Her parents decide to stop the car and explore the area. They go through the tunnel and find an abandoned amusement park on the other side, with its own little town. When her parents see a restaurant with great-smelling food but no staff, they decide to eat and pay later. However, Chihiro refuses to eat and decides to explore the theme park a bit more. She meets a boy named Haku who tells her that Chihiro and her parents are in danger, and they must leave immediately. She runs to the restaurant and finds that her parents have turned into pigs. In addition, the theme park turns out to be a town inhabited by demons, spirits, and evil gods. At the center of the town is a bathhouse where these creatures go to relax. The owner of the bathhouse ...",
+      "plotLocal": "",
+      "plotLocalIsRtl": false,
+      "awards": "Top Rated Movies #28 | Won 1 Oscar. Another 57 wins & 31 nominations.",
+      "directors": "Hayao Miyazaki",
+      "directorList": [
+        {
+          "id": "nm0594503",
+          "name": "Hayao Miyazaki"
+        }
+      ],
+      "writers": "Hayao Miyazaki",
+      "writerList": [
+        {
+          "id": "nm0594503",
+          "name": "Hayao Miyazaki"
+        }
+      ],
+      "stars": "Daveigh Chase, Suzanne Pleshette, Miyu Irino, Rumi Hiiragi",
+      "starList": [
+        {
+          "id": "nm0153738",
+          "name": "Daveigh Chase"
+        },
+        {
+          "id": "nm0687189",
+          "name": "Suzanne Pleshette"
+        },
+        {
+          "id": "nm0997115",
+          "name": "Miyu Irino"
+        },
+        {
+          "id": "nm0383708",
+          "name": "Rumi Hiiragi"
+        }
+      ],
+      "actorList": [
+        {
+          "id": "nm0383708",
+          "image": "https://imdb-api.com/images/original/MV5BMjdmMzRhODYtMWI1OC00MjlmLWI3ZDktZjc4ZDlhNjQxNmY1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Rumi Hiiragi",
+          "asCharacter": "Chihiro Ogino / Sen (voice)"
+        },
+        {
+          "id": "nm0997115",
+          "image": "https://imdb-api.com/images/original/MV5BZjA4M2Q5NDItN2FjNi00NTg3LWE3MTEtOWM0NDJmODk1YjQwXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7727_AL_.jpg",
+          "name": "Miyu Irino",
+          "asCharacter": "Haku (voice)"
+        },
+        {
+          "id": "nm0622412",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Mari Natsuki",
+          "asCharacter": "Yubaba / Zeniba (voice)"
+        },
+        {
+          "id": "nm0619822",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Takashi Naitô",
+          "asCharacter": "Akio Ogino (voice)"
+        },
+        {
+          "id": "nm0768005",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Yasuko Sawaguchi",
+          "asCharacter": "Yûko Ogino (voice)"
+        },
+        {
+          "id": "nm0309107",
+          "image": "https://imdb-api.com/images/original/MV5BNzkwYTU0MTYtYTVhMC00NGQ3LWJkZmUtOWFlYzhmMDI3MzdmXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Tatsuya Gashûin",
+          "asCharacter": "Aogaeru (voice)"
+        },
+        {
+          "id": "nm1126340",
+          "image": "https://imdb-api.com/images/original/MV5BNzlkYzdjYWEtOTkyNC00NDNhLWIyNTItZmFjNWQxZDZmNzFlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.5000_AL_.jpg",
+          "name": "Ryûnosuke Kamiki",
+          "asCharacter": "Bô (voice)"
+        },
+        {
+          "id": "nm1112144",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Yumi Tamai",
+          "asCharacter": "Rin (voice)"
+        },
+        {
+          "id": "nm1126978",
+          "image": "https://imdb-api.com/images/original/MV5BMDZiYzI4MWEtYmE2OC00YzkzLThlNzctYmY4MjY1NGFlNTIzXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.5000_AL_.jpg",
+          "name": "Yô Ôizumi",
+          "asCharacter": "Bandai-gaeru (voice)"
+        },
+        {
+          "id": "nm0370632",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Koba Hayashi",
+          "asCharacter": "Kawa no Kami (voice)"
+        },
+        {
+          "id": "nm0436639",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Tsunehiko Kamijô",
+          "asCharacter": "Chichiyaku (voice)"
+        },
+        {
+          "id": "nm0648777",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Takehiko Ono",
+          "asCharacter": "Aniyaku (voice)"
+        },
+        {
+          "id": "nm0837420",
+          "image": "https://imdb-api.com/images/original/MV5BMTJiYmIyYTktN2U4My00NDdiLTk5ODgtNmU4MGVhZGI3NTE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio2.3182_AL_.jpg",
+          "name": "Bunta Sugawara",
+          "asCharacter": "Kamajî (voice)"
+        },
+        {
+          "id": "nm6946829",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Shigeru Wakita",
+          "asCharacter": "(voice)"
+        },
+        {
+          "id": "nm1312191",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Shirô Saitô",
+          "asCharacter": "(voice)"
+        }
+      ],
+      "fullCast": null,
+      "genres": "Animation, Adventure, Family, Fantasy, Mystery",
+      "genreList": [
+        {
+          "key": "Animation",
+          "value": "Animation"
+        },
+        {
+          "key": "Adventure",
+          "value": "Adventure"
+        },
+        {
+          "key": "Family",
+          "value": "Family"
+        },
+        {
+          "key": "Fantasy",
+          "value": "Fantasy"
+        },
+        {
+          "key": "Mystery",
+          "value": "Mystery"
+        }
+      ],
+      "companies": "Tokuma Shoten, Studio Ghibli, Nippon Television Network (NTV)",
+      "companyList": [
+        {
+          "id": "co0016626",
+          "name": "Tokuma Shoten"
+        },
+        {
+          "id": "co0048420",
+          "name": "Studio Ghibli"
+        },
+        {
+          "id": "co0003850",
+          "name": "Nippon Television Network (NTV)"
+        }
+      ],
+      "countries": "Japan, USA",
+      "countryList": [
+        {
+          "key": "Japan",
+          "value": "Japan"
+        },
+        {
+          "key": "USA",
+          "value": "USA"
+        }
+      ],
+      "languages": "Japanese",
+      "languageList": [
+        {
+          "key": "Japanese",
+          "value": "Japanese"
+        }
+      ],
+      "contentRating": "PG",
+      "imDbRating": "8.6",
+      "imDbRatingVotes": "665393",
+      "metacriticRating": "96",
+      "ratings": {
+        "imDbId": "tt0245429",
+        "title": "Spirited Away",
+        "fullTitle": "Spirited Away (2001)",
+        "type": "Movie",
+        "year": "2001",
+        "imDb": "8.6",
+        "metacritic": "96",
+        "theMovieDb": "8.5",
+        "rottenTomatoes": "97",
+        "tV_com": "",
+        "filmAffinity": "8.1",
+        "errorMessage": ""
+      },
+      "wikipedia": null,
+      "posters": null,
+      "images": null,
+      "trailer": {
+        "imDbId": "tt0245429",
+        "title": "Spirited Away",
+        "fullTitle": "Spirited Away (2001)",
+        "type": "Movie",
+        "year": "2001",
+        "videoId": "vi3619684633",
+        "videoTitle": "Spirited Away",
+        "videoDescription": "CT #2A Post",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzZjOWEyNTEtNjhmMC00YmZlLTkyMzAtM2Y5MzFjYmJlODIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "08/04/2008 03:46:33",
+        "link": "https://www.imdb.com/video/vi3619684633",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3619684633/imdb/embed",
+        "errorMessage": ""
+      },
+      "boxOffice": {
+        "budget": "$19,000,000 (estimated)",
+        "openingWeekendUSA": "$449,839, 22 September 2002",
+        "grossUSA": "$13,750,644",
+        "cumulativeWorldwideGross": "$355,475,245"
+      },
+      "tagline": "The tunnel led Chihiro to a mysterious town.",
+      "keywords": "spirit,spirit world,studio ghibli,child protagonist,sister sister relationship",
+      "keywordList": [
+        "spirit",
+        "spirit world",
+        "studio ghibli",
+        "child protagonist",
+        "sister sister relationship"
+      ],
+      "similars": [
+        {
+          "id": "tt0347149",
+          "title": "Howl's Moving Castle",
+          "fullTitle": "Howl's Moving Castle (2004)",
+          "year": "2004",
+          "image": "https://imdb-api.com/images/original/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+          "directors": "Hayao Miyazaki",
+          "stars": "Chieko Baishô, Takuya Kimura, Tatsuya Gashûin",
+          "genres": "Animation, Adventure, Family",
+          "imDbRating": "8.2"
+        },
+        {
+          "id": "tt0096283",
+          "title": "My Neighbor Totoro",
+          "fullTitle": "My Neighbor Totoro (1988)",
+          "year": "1988",
+          "image": "https://imdb-api.com/images/original/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7158_AL_.jpg",
+          "plot": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+          "directors": "Hayao Miyazaki",
+          "stars": "Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",
+          "genres": "Animation, Family, Fantasy",
+          "imDbRating": "8.2"
+        },
+        {
+          "id": "tt0110357",
+          "title": "The Lion King",
+          "fullTitle": "The Lion King (1994)",
+          "year": "1994",
+          "image": "https://imdb-api.com/images/original/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+          "directors": "Directors: Roger Allers, Rob Minkoff",
+          "stars": "Matthew Broderick, Jeremy Irons, James Earl Jones",
+          "genres": "Animation, Adventure, Drama",
+          "imDbRating": "8.5"
+        },
+        {
+          "id": "tt0910970",
+          "title": "WALL·E",
+          "fullTitle": "WALL·E (2008)",
+          "year": "2008",
+          "image": "https://imdb-api.com/images/original/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+          "directors": "Andrew Stanton",
+          "stars": "Ben Burtt, Elissa Knight, Jeff Garlin",
+          "genres": "Animation, Adventure, Family",
+          "imDbRating": "8.4"
+        },
+        {
+          "id": "tt1049413",
+          "title": "Up",
+          "fullTitle": "Up (2009)",
+          "year": "2009",
+          "image": "https://imdb-api.com/images/original/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+          "directors": "Directors: Pete Docter, Bob Peterson",
+          "stars": "Edward Asner, Jordan Nagai, John Ratzenberger",
+          "genres": "Animation, Adventure, Comedy",
+          "imDbRating": "8.2"
+        },
+        {
+          "id": "tt2380307",
+          "title": "Coco",
+          "fullTitle": "",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_Ratio0.6947_AL_.jpg",
+          "plot": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+          "directors": "Directors: Lee Unkrich, Adrian Molina",
+          "stars": "Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",
+          "genres": "Animation, Adventure, Family",
+          "imDbRating": "8.4"
+        },
+        {
+          "id": "tt0092067",
+          "title": "Castle in the Sky",
+          "fullTitle": "Castle in the Sky (1986)",
+          "year": "1986",
+          "image": "https://imdb-api.com/images/original/MV5BNTg0NmI1ZGQtZTUxNC00NTgxLThjMDUtZmRlYmEzM2MwOWYwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6947_AL_.jpg",
+          "plot": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+          "directors": "Hayao Miyazaki",
+          "stars": "Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui",
+          "genres": "Animation, Adventure, Drama",
+          "imDbRating": "8"
+        },
+        {
+          "id": "tt0097814",
+          "title": "Kiki's Delivery Service",
+          "fullTitle": "Kiki's Delivery Service (1989)",
+          "year": "1989",
+          "image": "https://imdb-api.com/images/original/MV5BOTc0ODM1Njk1NF5BMl5BanBnXkFtZTcwMDI5OTEyNw@@._V1_Ratio0.7053_AL_.jpg",
+          "plot": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+          "directors": "Hayao Miyazaki",
+          "stars": "Kirsten Dunst, Minami Takayama, Rei Sakuma",
+          "genres": "Animation, Adventure, Drama",
+          "imDbRating": "7.8"
+        },
+        {
+          "id": "tt0876563",
+          "title": "Ponyo",
+          "fullTitle": "Ponyo (2008)",
+          "year": "2008",
+          "image": "https://imdb-api.com/images/original/MV5BOTc3YmM3N2QtODZkMC00ZDE5LThjMTQtYTljN2Y1YTYwYWJkXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him.",
+          "directors": "Hayao Miyazaki",
+          "stars": "Cate Blanchett, Matt Damon, Liam Neeson",
+          "genres": "Animation, Adventure, Comedy",
+          "imDbRating": "7.7"
+        },
+        {
+          "id": "tt0266543",
+          "title": "Finding Nemo",
+          "fullTitle": "Finding Nemo (2003)",
+          "year": "2003",
+          "image": "https://imdb-api.com/images/original/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+          "directors": "Directors: Andrew Stanton, Lee Unkrich",
+          "stars": "Albert Brooks, Ellen DeGeneres, Alexander Gould",
+          "genres": "Animation, Adventure, Comedy",
+          "imDbRating": "8.1"
+        },
+        {
+          "id": "tt0114709",
+          "title": "Toy Story",
+          "fullTitle": "Toy Story (1995)",
+          "year": "1995",
+          "image": "https://imdb-api.com/images/original/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+          "directors": "John Lasseter",
+          "stars": "Tom Hanks, Tim Allen, Don Rickles",
+          "genres": "Animation, Adventure, Comedy",
+          "imDbRating": "8.3"
+        },
+        {
+          "id": "tt4633694",
+          "title": "Spider-Man: Into the Spider-Verse",
+          "fullTitle": "Spider-Man: Into the Spider-Verse (2018)",
+          "year": "2018",
+          "image": "https://imdb-api.com/images/original/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+          "directors": "Directors: Bob Persichetti, Peter Ramsey, and 1 more credit »",
+          "stars": "Shameik Moore, Jake Johnson, Hailee Steinfeld",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "8.4"
+        }
+      ],
+      "tvSeriesInfo": null,
+      "tvEpisodeInfo": null,
+      "errorMessage": ""
+    },
+    {
+      "id": "tt0095327",
+      "title": "Grave of the Fireflies",
+      "originalTitle": "Hotaru no haka",
+      "fullTitle": "Grave of the Fireflies (1988)",
+      "type": "Movie",
+      "year": "1988",
+      "image": "https://imdb-api.com/images/original/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6791_AL_.jpg",
+      "releaseDate": "1988-04-16",
+      "runtimeMins": "89",
+      "runtimeStr": "1h 29mins",
+      "plot": "The story of Seita and Setsuko, two young Japanese siblings, living in the declining days of World War II. When an American firebombing separates the two children from their parents, the two siblings must rely completely on one another while they struggle to fight for their survival.",
+      "plotLocal": "",
+      "plotLocalIsRtl": false,
+      "awards": "Top Rated Movies #46 | 3 wins.",
+      "directors": "Isao Takahata",
+      "directorList": [
+        {
+          "id": "nm0847223",
+          "name": "Isao Takahata"
+        }
+      ],
+      "writers": "Akiyuki Nosaka, Isao Takahata",
+      "writerList": [
+        {
+          "id": "nm0636435",
+          "name": "Akiyuki Nosaka"
+        },
+        {
+          "id": "nm0847223",
+          "name": "Isao Takahata"
+        }
+      ],
+      "stars": "Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi, Yoshiko Shinohara",
+      "starList": [
+        {
+          "id": "nm0851302",
+          "name": "Tsutomu Tatsumi"
+        },
+        {
+          "id": "nm0794186",
+          "name": "Ayano Shiraishi"
+        },
+        {
+          "id": "nm0945312",
+          "name": "Akemi Yamaguchi"
+        },
+        {
+          "id": "nm0794002",
+          "name": "Yoshiko Shinohara"
+        }
+      ],
+      "actorList": [
+        {
+          "id": "nm0851302",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Tsutomu Tatsumi",
+          "asCharacter": "Seita (voice)"
+        },
+        {
+          "id": "nm0794186",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Ayano Shiraishi",
+          "asCharacter": "Setsuko (voice)"
+        },
+        {
+          "id": "nm0794002",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Yoshiko Shinohara",
+          "asCharacter": "Mother (voice)"
+        },
+        {
+          "id": "nm0945312",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Akemi Yamaguchi",
+          "asCharacter": "Aunt (voice)"
+        },
+        {
+          "id": "nm12329614",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Kôzô Hashida",
+          "asCharacter": "Obayashi Chairman (voice)"
+        },
+        {
+          "id": "nm10735745",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Masayo Sakai",
+          "asCharacter": "Woman who takes care of Setsuko (voice)"
+        },
+        {
+          "id": "nm12329615",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Kazumi Nozaki",
+          "asCharacter": "Cousin (voice)"
+        },
+        {
+          "id": "nm4410046",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Yoshio Matsuoka",
+          "asCharacter": "Gosaku (voice)"
+        },
+        {
+          "id": "nm12329616",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Masahiro Kanetake",
+          "asCharacter": "Aunt's house guest (voice)"
+        },
+        {
+          "id": "nm6979973",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Kiyoshi Yanagawa",
+          "asCharacter": "Patrolman (voice)"
+        },
+        {
+          "id": "nm12329617",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Hajime Maki",
+          "asCharacter": "Man who arrests Seita (voice)"
+        },
+        {
+          "id": "nm6087055",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Atsuo Omote",
+          "asCharacter": "Person in bank (voice)"
+        },
+        {
+          "id": "nm12329618",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Teruhisa Harita",
+          "asCharacter": "Station worker (voice)"
+        },
+        {
+          "id": "nm0848991",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Hiroshi Tanaka",
+          "asCharacter": "Person in bank (voice)"
+        },
+        {
+          "id": "nm7135999",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Michio Denpô",
+          "asCharacter": "Station worker / Doctor (voice)"
+        }
+      ],
+      "fullCast": null,
+      "genres": "Animation, Drama, War",
+      "genreList": [
+        {
+          "key": "Animation",
+          "value": "Animation"
+        },
+        {
+          "key": "Drama",
+          "value": "Drama"
+        },
+        {
+          "key": "War",
+          "value": "War"
+        }
+      ],
+      "companies": "Shinchosha Company, Studio Ghibli",
+      "companyList": [
+        {
+          "id": "co0057589",
+          "name": "Shinchosha Company"
+        },
+        {
+          "id": "co0048420",
+          "name": "Studio Ghibli"
+        }
+      ],
+      "countries": "Japan, USA",
+      "countryList": [
+        {
+          "key": "Japan",
+          "value": "Japan"
+        },
+        {
+          "key": "USA",
+          "value": "USA"
+        }
+      ],
+      "languages": "Japanese",
+      "languageList": [
+        {
+          "key": "Japanese",
+          "value": "Japanese"
+        }
+      ],
+      "contentRating": "Not Rated",
+      "imDbRating": "8.5",
+      "imDbRatingVotes": "240755",
+      "metacriticRating": "94",
+      "ratings": {
+        "imDbId": "tt0095327",
+        "title": "Grave of the Fireflies",
+        "fullTitle": "Grave of the Fireflies (1988)",
+        "type": "Movie",
+        "year": "1988",
+        "imDb": "8.5",
+        "metacritic": "94",
+        "theMovieDb": "8.4",
+        "rottenTomatoes": "",
+        "tV_com": "",
+        "filmAffinity": "8.0",
+        "errorMessage": ""
+      },
+      "wikipedia": null,
+      "posters": null,
+      "images": null,
+      "trailer": {
+        "imDbId": "tt0095327",
+        "title": "Grave of the Fireflies",
+        "fullTitle": "Grave of the Fireflies (1988)",
+        "type": "Movie",
+        "year": "1988",
+        "videoId": "vi1377679385",
+        "videoTitle": "Grave of the Fireflies",
+        "videoDescription": "Trailer for Grave of Fireflies",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTNmNWM4OWUtMTcxZi00ODA1LWE1NWMtOTk3Mjg3ZDIyYWI0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "03/21/2018 17:43:26",
+        "link": "https://www.imdb.com/video/vi1377679385",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1377679385/imdb/embed",
+        "errorMessage": ""
+      },
+      "boxOffice": {
+        "budget": "$3,700,000 (estimated)",
+        "openingWeekendUSA": "$158,101, 12 August 2018",
+        "grossUSA": "$516,962",
+        "cumulativeWorldwideGross": "$516,962"
+      },
+      "tagline": "",
+      "keywords": "orphan,food,survival,older brother younger sister,homelessness",
+      "keywordList": [
+        "orphan",
+        "food",
+        "survival",
+        "older brother younger sister",
+        "homelessness"
+      ],
+      "similars": [
+        {
+          "id": "tt0119698",
+          "title": "Princess Mononoke",
+          "fullTitle": "Princess Mononoke (1997)",
+          "year": "1997",
+          "image": "https://imdb-api.com/images/original/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+          "directors": "Hayao Miyazaki",
+          "stars": "Yôji Matsuda, Yuriko Ishida, Yûko Tanaka",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "8.4"
+        },
+        {
+          "id": "tt5311514",
+          "title": "Your Name.",
+          "fullTitle": "Your Name. (2016)",
+          "year": "2016",
+          "image": "https://imdb-api.com/images/original/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+          "directors": "Makoto Shinkai",
+          "stars": "Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita",
+          "genres": "Animation, Drama, Fantasy",
+          "imDbRating": "8.4"
+        },
+        {
+          "id": "tt0087544",
+          "title": "Nausicaä of the Valley of the Wind",
+          "fullTitle": "Nausicaä of the Valley of the Wind (1984)",
+          "year": "1984",
+          "image": "https://imdb-api.com/images/original/MV5BZTI3NmJmYTQtNDg4NS00M2VlLTgzZDAtZWIwZDcyOWY5YzIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
+          "directors": "Hayao Miyazaki",
+          "stars": "Sumi Shimamoto, Mahito Tsujimura, Hisako Kyôda",
+          "genres": "Animation, Adventure, Fantasy",
+          "imDbRating": "8.1"
+        },
+        {
+          "id": "tt0118799",
+          "title": "Life Is Beautiful",
+          "fullTitle": "Life Is Beautiful (1997)",
+          "year": "1997",
+          "image": "https://imdb-api.com/images/original/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+          "directors": "Roberto Benigni",
+          "stars": "Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",
+          "genres": "Comedy, Drama, Romance",
+          "imDbRating": "8.6"
+        },
+        {
+          "id": "tt0491652",
+          "title": "Grave of the Fireflies",
+          "fullTitle": "Grave of the Fireflies (TV Movie 2005)",
+          "year": "TV Movie 2005",
+          "image": "https://imdb-api.com/images/original/MV5BMjk3ZDdhMTUtZWRlYS00MjQyLWIzNDUtZjYwNmZmYWNiMWFlXkEyXkFqcGdeQXVyNDY3MTQwMzk@._V1_Ratio0.7053_AL_.jpg",
+          "plot": "An aunt's struggle to survive in Japan during World War II while caring for her niece and nephew.",
+          "directors": "Tôya Satô",
+          "stars": "Yasunori Danta, Mayuko Fukuda, Mansaku Fuwa",
+          "genres": "Drama, War",
+          "imDbRating": "7.6"
+        },
+        {
+          "id": "tt0095765",
+          "title": "Cinema Paradiso",
+          "fullTitle": "Cinema Paradiso (1988)",
+          "year": "1988",
+          "image": "https://imdb-api.com/images/original/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+          "directors": "Giuseppe Tornatore",
+          "stars": "Philippe Noiret, Enzo Cannavale, Antonella Attili",
+          "genres": "Drama, Romance",
+          "imDbRating": "8.5"
+        },
+        {
+          "id": "tt0054215",
+          "title": "Psycho",
+          "fullTitle": "Psycho (1960)",
+          "year": "1960",
+          "image": "https://imdb-api.com/images/original/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+          "directors": "Alfred Hitchcock",
+          "stars": "Anthony Perkins, Janet Leigh, Vera Miles",
+          "genres": "Horror, Mystery, Thriller",
+          "imDbRating": "8.5"
+        },
+        {
+          "id": "tt0021749",
+          "title": "City Lights",
+          "fullTitle": "City Lights (1931)",
+          "year": "1931",
+          "image": "https://imdb-api.com/images/original/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+          "directors": "Charles Chaplin",
+          "stars": "Charles Chaplin, Virginia Cherrill, Florence Lee",
+          "genres": "Comedy, Drama, Romance",
+          "imDbRating": "8.5"
+        },
+        {
+          "id": "tt0110413",
+          "title": "Léon: The Professional",
+          "fullTitle": "Léon: The Professional (1994)",
+          "year": "1994",
+          "image": "https://imdb-api.com/images/original/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+          "directors": "Luc Besson",
+          "stars": "Jean Reno, Gary Oldman, Natalie Portman",
+          "genres": "Action, Crime, Drama",
+          "imDbRating": "8.5"
+        },
+        {
+          "id": "tt1675434",
+          "title": "The Intouchables",
+          "fullTitle": "The Intouchables (2011)",
+          "year": "2011",
+          "image": "https://imdb-api.com/images/original/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+          "directors": "Directors: Olivier Nakache, Éric Toledano",
+          "stars": "François Cluzet, Omar Sy, Anne Le Ny",
+          "genres": "Biography, Comedy, Drama",
+          "imDbRating": "8.5"
+        },
+        {
+          "id": "tt0056058",
+          "title": "Hara-Kiri",
+          "fullTitle": "Hara-Kiri (1962)",
+          "year": "1962",
+          "image": "https://imdb-api.com/images/original/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_Ratio0.7368_AL_.jpg",
+          "plot": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+          "directors": "Masaki Kobayashi",
+          "stars": "Tatsuya Nakadai, Akira Ishihama, Shima Iwashita",
+          "genres": "Action, Drama, Mystery",
+          "imDbRating": "8.6"
+        },
+        {
+          "id": "tt0253474",
+          "title": "The Pianist",
+          "fullTitle": "The Pianist (2002)",
+          "year": "2002",
+          "image": "https://imdb-api.com/images/original/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7263_AL_.jpg",
+          "plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+          "directors": "Roman Polanski",
+          "stars": "Adrien Brody, Thomas Kretschmann, Frank Finlay",
+          "genres": "Biography, Drama, Music",
+          "imDbRating": "8.5"
+        }
+      ],
+      "tvSeriesInfo": null,
+      "tvEpisodeInfo": null,
+      "errorMessage": ""
+    },
+    {
+      "id": "tt0156887",
+      "title": "Perfect Blue",
+      "originalTitle": "Pâfekuto burû",
+      "fullTitle": "Perfect Blue (1997)",
+      "type": "Movie",
+      "year": "1997",
+      "image": "https://imdb-api.com/images/original/MV5BMmMzOWNhNTYtYmY0My00OGJiLWIzNDUtZWRhNGY0NWFjNzFmXkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_Ratio0.6762_AL_.jpg",
+      "releaseDate": "1998-02-27",
+      "runtimeMins": "81",
+      "runtimeStr": "1h 21min",
+      "plot": "Mima leaves the idol group CHAM, in order to pursue her dream as an actress. Mima climbs up the rocky road to success by performing as rape victims and posing nude for magazines, but is haunted by her reflections of the past.",
+      "plotLocal": "",
+      "plotLocalIsRtl": false,
+      "awards": "Awards3 wins & 3 nominations",
+      "directors": "Satoshi Kon",
+      "directorList": [
+        {
+          "id": "nm0464804",
+          "name": "Satoshi Kon"
+        }
+      ],
+      "writers": "Sadayuki Murai, Yoshikazu Takeuchi, Rika Takahashi",
+      "writerList": [
+        {
+          "id": "nm0613444",
+          "name": "Sadayuki Murai"
+        },
+        {
+          "id": "nm0847621",
+          "name": "Yoshikazu Takeuchi"
+        },
+        {
+          "id": "nm1038897",
+          "name": "Rika Takahashi"
+        }
+      ],
+      "stars": "Junko Iwao, Rica Matsumoto, Shinpachi Tsuji",
+      "starList": [
+        {
+          "id": "nm0412585",
+          "name": "Junko Iwao"
+        },
+        {
+          "id": "nm0559551",
+          "name": "Rica Matsumoto"
+        },
+        {
+          "id": "nm0875320",
+          "name": "Shinpachi Tsuji"
+        }
+      ],
+      "actorList": [
+        {
+          "id": "nm0412585",
+          "image": "https://imdb-api.com/images/original/MV5BMDcwNzBiMGQtMDE1Yi00NTIzLWE3YWYtMzllZjQ1MjNhYzE2XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Junko Iwao",
+          "asCharacter": "Mima Kirigoeas Mima Kirigoe"
+        },
+        {
+          "id": "nm0559551",
+          "image": "https://imdb-api.com/images/original/MV5BYTIxZDAyZGQtOGYyNS00OGZlLWEzOWUtMzRhMDA4ODA0YmMyXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Rica Matsumoto",
+          "asCharacter": "Rumias Rumi"
+        },
+        {
+          "id": "nm0875320",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Shinpachi Tsuji",
+          "asCharacter": "Tadokoroas Tadokoro"
+        },
+        {
+          "id": "nm0959991",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Masaaki Ôkura",
+          "asCharacter": "Uchidaas Uchida"
+        },
+        {
+          "id": "nm0015342",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Yôsuke Akimoto",
+          "asCharacter": "Tejimaas Tejima"
+        },
+        {
+          "id": "nm0794054",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Yoku Shioya",
+          "asCharacter": "Shibuyaas Shibuya"
+        },
+        {
+          "id": "nm0394649",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Hideyuki Hori",
+          "asCharacter": "Sakuragias Sakuragi"
+        },
+        {
+          "id": "nm0793987",
+          "image": "https://imdb-api.com/images/original/MV5BNThkYWFjMWUtYWRiNy00ZmFkLWI1ZGUtNjU3M2JhMjEzNWIzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Emi Shinohara",
+          "asCharacter": "Eri Ochiaias Eri Ochiai"
+        },
+        {
+          "id": "nm0247929",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Masashi Ebara",
+          "asCharacter": "Muranoas Murano"
+        },
+        {
+          "id": "nm0363066",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Kiyoyuki Yanada",
+          "asCharacter": "Kantokuas Kantoku"
+        },
+        {
+          "id": "nm0299208",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Tôru Furusawa",
+          "asCharacter": "Yadaas Yada"
+        },
+        {
+          "id": "nm0631577",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Shiho Niiyama",
+          "asCharacter": "Reias Rei"
+        },
+        {
+          "id": "nm3487595",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Emiko Furukawa",
+          "asCharacter": "Yukikoas Yukiko"
+        },
+        {
+          "id": "nm0361656",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Aya Hara",
+          "asCharacter": "Mima's Motheras Mima's Mother"
+        },
+        {
+          "id": "nm0586528",
+          "image": "https://imdb-api.com/images/original/MV5BMzIzNDUyNjAtZDRhNC00OGMwLTlkODgtOTIyYjJkMDJlZTI2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Shin'ichirô Miki",
+          "asCharacter": "Takuas Taku"
+        },
+        {
+          "id": "nm1225250",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Jin Yamanoi",
+          "asCharacter": "Additional Voicesas Additional Voices"
+        },
+        {
+          "id": "nm0849773",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Megumi Tano",
+          "asCharacter": "Childas Child"
+        },
+        {
+          "id": "nm0619172",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Takashi Nagasako",
+          "asCharacter": "Additional Voicesas Additional Voices"
+        }
+      ],
+      "fullCast": null,
+      "genres": "Animation, Crime, Mystery",
+      "genreList": [
+        {
+          "key": "Animation",
+          "value": "Animation"
+        },
+        {
+          "key": "Crime",
+          "value": "Crime"
+        },
+        {
+          "key": "Mystery",
+          "value": "Mystery"
+        }
+      ],
+      "companies": "Rex Entertainment, Kotobuki Seihan Printing, Asahi Broadcasting Corporation (ABC)",
+      "companyList": [
+        {
+          "id": "co0276474",
+          "name": "Rex Entertainment"
+        },
+        {
+          "id": "co0624058",
+          "name": "Kotobuki Seihan Printing"
+        },
+        {
+          "id": "co0138168",
+          "name": "Asahi Broadcasting Corporation (ABC)"
+        }
+      ],
+      "countries": "Japan",
+      "countryList": [
+        {
+          "key": "Japan",
+          "value": "Japan"
+        }
+      ],
+      "languages": "Japanese",
+      "languageList": [
+        {
+          "key": "Japanese",
+          "value": "Japanese"
+        }
+      ],
+      "contentRating": "",
+      "imDbRating": "8",
+      "imDbRatingVotes": "62581",
+      "metacriticRating": "",
+      "ratings": {
+        "imDbId": "tt0156887",
+        "title": "Perfect Blue",
+        "fullTitle": "Perfect Blue (1997)",
+        "type": "Movie",
+        "year": "1997",
+        "imDb": "8",
+        "metacritic": "",
+        "theMovieDb": "8.3",
+        "rottenTomatoes": "",
+        "tV_com": "",
+        "filmAffinity": "7.4",
+        "errorMessage": ""
+      },
+      "wikipedia": null,
+      "posters": null,
+      "images": null,
+      "trailer": {
+        "imDbId": "tt0156887",
+        "title": "Perfect Blue",
+        "fullTitle": "Perfect Blue (1997)",
+        "type": "Movie",
+        "year": "1997",
+        "videoId": "vi539343641",
+        "videoTitle": "Perfect Blue",
+        "videoDescription": "2018 Rerelease Trailer",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGY4YzcyOWQtNzE2Ni00YjFhLTk5NWMtMzBmZjhkN2JiNTk0XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "08/11/2018 17:10:13",
+        "link": "https://www.imdb.com/video/vi539343641",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi539343641/imdb/embed",
+        "errorMessage": ""
+      },
+      "boxOffice": {
+        "budget": "¥3,000,000 (estimated)",
+        "openingWeekendUSA": "$9,600",
+        "grossUSA": "$558,598",
+        "cumulativeWorldwideGross": "$563,130"
+      },
+      "tagline": "The color of illusion is Perfect Blue. (Japanese)",
+      "keywords": "stalking,actress,obsessed fan,ambiguity,film within a film",
+      "keywordList": [
+        "stalking",
+        "actress",
+        "obsessed fan",
+        "ambiguity",
+        "film within a film"
+      ],
+      "similars": [
+        {
+          "id": "tt0851578",
+          "title": "Paprika",
+          "fullTitle": "Paprika",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BNDliMTMxOWEtODM3Yi00N2QwLTg4YTAtNTE5YzBlNTA2NjhlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_Ratio0.6763_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "7.7"
+        },
+        {
+          "id": "tt0388473",
+          "title": "Tokyo Godfathers",
+          "fullTitle": "Tokyo Godfathers",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BNWY2ODRkZDYtMjllYi00Y2EyLWFhYjktMTQ5OGNkY2ViYmY2XkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_Ratio0.7150_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "7.8"
+        },
+        {
+          "id": "tt0291350",
+          "title": "Millennium Actress",
+          "fullTitle": "Millennium Actress",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BNTljMmIyZWEtNzQ1Ni00NTdmLWIzMmYtMmIzZDAzOTc0ZGY2XkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_Ratio0.6763_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "7.9"
+        },
+        {
+          "id": "tt0094625",
+          "title": "Akira",
+          "fullTitle": "Akira",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BM2ZiZTk1ODgtMTZkNS00NTYxLWIxZTUtNWExZGYwZTRjODViXkEyXkFqcGdeQXVyMTE2MzA3MDM@._V1_Ratio0.6763_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.0"
+        },
+        {
+          "id": "tt0113568",
+          "title": "Ghost in the Shell",
+          "fullTitle": "Ghost in the Shell",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6763_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.0"
+        },
+        {
+          "id": "tt0367257",
+          "title": "Perfect Blue",
+          "fullTitle": "Perfect Blue",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BNzg4NzEyY2MtNzcxYS00ZjViLWI4ZTQtM2UyZmRkOGJjZjBkXkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_Ratio0.7053_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "6.1"
+        },
+        {
+          "id": "tt0433722",
+          "title": "Paranoia Agent",
+          "fullTitle": "Paranoia Agent",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BZmUxZTBmNDctZmY1MC00MjhiLThmZTItMjc0OTJiYTQ1Y2VlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6860_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.1"
+        },
+        {
+          "id": "tt0119698",
+          "title": "Princess Mononoke",
+          "fullTitle": "Princess Mononoke",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_Ratio0.6763_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.4"
+        },
+        {
+          "id": "tt0169858",
+          "title": "Neon Genesis Evangelion: The End of Evangelion",
+          "fullTitle": "Neon Genesis Evangelion: The End of Evangelion",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BZjJhMThkNTQtNjkxNy00MDdjLTg4MWQtMTI2MmQ3MDVmODUzXkEyXkFqcGdeQXVyMTAwOTA3NzY3._V1_Ratio0.7053_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.1"
+        },
+        {
+          "id": "tt2140203",
+          "title": "Wolf Children",
+          "fullTitle": "Wolf Children",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BYzQxNDZhNDUtNDUwOC00NjQyLTg2OWUtZWVlYThjYjYyMTc2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7053_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.1"
+        },
+        {
+          "id": "tt5323662",
+          "title": "A Silent Voice: The Movie",
+          "fullTitle": "A Silent Voice: The Movie",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BZGRkOGMxYTUtZTBhYS00NzI3LWEzMDQtOWRhMmNjNjJjMzM4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6957_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.2"
+        },
+        {
+          "id": "tt2591814",
+          "title": "The Garden of Words",
+          "fullTitle": "The Garden of Words",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BZDFlYTk5NTQtYTkxMC00NWIyLThiOTYtNjZjYTJhMWJhM2NiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7150_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "7.5"
+        }
+      ],
+      "tvSeriesInfo": null,
+      "tvEpisodeInfo": null,
+      "errorMessage": ""
+    },
+    {
+      "id": "tt0213338",
+      "title": "Cowboy Bebop",
+      "originalTitle": "Kaubôi bibappu",
+      "fullTitle": "Cowboy Bebop (TV Series 1998–1999)",
+      "type": "TVSeries",
+      "year": "1998",
+      "image": "https://imdb-api.com/images/original/MV5BNGNlNjBkODEtZThlOC00YzUxLWI0MjMtMjk3YzJmMDFlNWZlXkEyXkFqcGdeQXVyNjI0MDg2NzE@._V1_Ratio0.6791_AL_.jpg",
+      "releaseDate": "1998-04-03",
+      "runtimeMins": "24",
+      "runtimeStr": "24mins",
+      "plot": "Spike Spiegel is a bounty hunter in the far future with an easy going attitude and some deadly skill at martial arts. Together with his partners, Jet Black, and later Faye Valentine as well, they go from job to job across the galaxy looking for the high priced fugitives to bag.",
+      "plotLocal": "",
+      "plotLocalIsRtl": false,
+      "awards": "Top Rated TV #35 | See the Top Rated TV as rated by our users.",
+      "directors": "",
+      "directorList": [],
+      "writers": "",
+      "writerList": [],
+      "stars": "Kôichi Yamadera, Unshô Ishizuka, Megumi Hayashibara, Steve Blum",
+      "starList": [
+        {
+          "id": "nm0945290",
+          "name": "Kôichi Yamadera"
+        },
+        {
+          "id": "nm0411167",
+          "name": "Unshô Ishizuka"
+        },
+        {
+          "id": "nm0370677",
+          "name": "Megumi Hayashibara"
+        },
+        {
+          "id": "nm0089710",
+          "name": "Steve Blum"
+        }
+      ],
+      "actorList": [
+        {
+          "id": "nm0945290",
+          "image": "https://imdb-api.com/images/original/MV5BMzA5NWI0OWItNmE4Yi00MTNlLTk2MzUtOGY4NTNjNjFmNWVlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.8636_AL_.jpg",
+          "name": "Kôichi Yamadera",
+          "asCharacter": "Spike Spiegel 26 episodes, 1998-1999"
+        },
+        {
+          "id": "nm0411167",
+          "image": "https://imdb-api.com/images/original/MV5BY2E0OTM0MTktZmQ2OC00ZjE0LWE3YzYtZmYxMzI4NDFhMTZmXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Unshô Ishizuka",
+          "asCharacter": "Jet Black 26 episodes, 1998-1999"
+        },
+        {
+          "id": "nm0089710",
+          "image": "https://imdb-api.com/images/original/MV5BM2YxOWUwYzItNzU4Yy00OTkzLWI0NmQtNTRjNTQ4N2QxYzZiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Steve Blum",
+          "asCharacter": "Spike Spiegel 26 episodes, 1998-1999"
+        },
+        {
+          "id": "nm0082507",
+          "image": "https://imdb-api.com/images/original/MV5BODQwNTk0NjkyNF5BMl5BanBnXkFtZTcwMzExMDQ3MQ@@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Beau Billingslea",
+          "asCharacter": "Jet Black 26 episodes, 1998-1999"
+        },
+        {
+          "id": "nm0138233",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Kevin Seymour",
+          "asCharacter": "Additional Voices / ... 26 episodes, 1998-1999"
+        },
+        {
+          "id": "nm0283253",
+          "image": "https://imdb-api.com/images/original/MV5BNDZhN2ZjMWItZTIzNC00MTE4LWI5ZDEtZjQyNTBmYWZhZDI0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Wendee Lee",
+          "asCharacter": "Faye Valentine 25 episodes, 1998-1999"
+        },
+        {
+          "id": "nm0370677",
+          "image": "https://imdb-api.com/images/original/MV5BNGFlZWIzMTQtZDkxMS00YTM0LTg4Y2QtMTgxN2MyMzUzMGUzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Megumi Hayashibara",
+          "asCharacter": "Faye Valentine 24 episodes, 1998-1999"
+        },
+        {
+          "id": "nm0157120",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Isshin Chiba",
+          "asCharacter": "Man 2 / ... 17 episodes, 1998-1999"
+        },
+        {
+          "id": "nm0153100",
+          "image": "https://imdb-api.com/images/original/MV5BNzlmMmNmMTgtN2RlYS00ZDFhLWEzMDItMTk2Nzc1ZjljMzE5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Melissa Fahn",
+          "asCharacter": "Edward Wong Hau Pepelu Tivruski IV 16 episodes, 1998-1999"
+        },
+        {
+          "id": "nm0846248",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Aoi Tada",
+          "asCharacter": "Edward Wong Hau Pepelu Tivruski IV 16 episodes, 1998-1999"
+        }
+      ],
+      "fullCast": null,
+      "genres": "Animation, Action, Adventure, Comedy, Drama, Sci-Fi, Thriller",
+      "genreList": [
+        {
+          "key": "Animation",
+          "value": "Animation"
+        },
+        {
+          "key": "Action",
+          "value": "Action"
+        },
+        {
+          "key": "Adventure",
+          "value": "Adventure"
+        },
+        {
+          "key": "Comedy",
+          "value": "Comedy"
+        },
+        {
+          "key": "Drama",
+          "value": "Drama"
+        },
+        {
+          "key": "Sci-Fi",
+          "value": "Sci-Fi"
+        },
+        {
+          "key": "Thriller",
+          "value": "Thriller"
+        }
+      ],
+      "companies": "Bandai Visual Company, Sunrise",
+      "companyList": [
+        {
+          "id": "co0080697",
+          "name": "Bandai Visual Company"
+        },
+        {
+          "id": "co0006858",
+          "name": "Sunrise"
+        }
+      ],
+      "countries": "Japan",
+      "countryList": [
+        {
+          "key": "Japan",
+          "value": "Japan"
+        }
+      ],
+      "languages": "English, Japanese",
+      "languageList": [
+        {
+          "key": "English",
+          "value": "English"
+        },
+        {
+          "key": "Japanese",
+          "value": "Japanese"
+        }
+      ],
+      "contentRating": "TV-14",
+      "imDbRating": "8.9",
+      "imDbRatingVotes": "91656",
+      "metacriticRating": "",
+      "ratings": {
+        "imDbId": "tt0213338",
+        "title": "Cowboy Bebop",
+        "fullTitle": "Cowboy Bebop (TV Series 1998–1999)",
+        "type": "TVSeries",
+        "year": "1998",
+        "imDb": "8.9",
+        "metacritic": "",
+        "theMovieDb": "8.5",
+        "rottenTomatoes": "100",
+        "tV_com": "",
+        "filmAffinity": "8.0",
+        "errorMessage": ""
+      },
+      "wikipedia": null,
+      "posters": null,
+      "images": null,
+      "trailer": {
+        "imDbId": "tt0213338",
+        "title": "Cowboy Bebop",
+        "fullTitle": "Cowboy Bebop (TV Series 1998–1999)",
+        "type": "TVSeries",
+        "year": "1998",
+        "videoId": "vi3116302617",
+        "videoTitle": "Cowboy Bebop",
+        "videoDescription": "Home Video Trailer from Bandai Entertainment",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDY2OTZkMWYtNWY0Yi00OWFjLWFmODctNGZmNDNmMGUxODVmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "uploadDate": "04/11/2008 13:35:01",
+        "link": "https://www.imdb.com/video/vi3116302617",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3116302617/imdb/embed",
+        "errorMessage": ""
+      },
+      "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+      },
+      "tagline": "You're gonna carry that weight. (final episode tagline)",
+      "keywords": "neo noir,bounty hunter,hacker,gangster,dark past",
+      "keywordList": [
+        "neo noir",
+        "bounty hunter",
+        "hacker",
+        "gangster",
+        "dark past"
+      ],
+      "similars": [
+        {
+          "id": "tt0275277",
+          "title": "Cowboy Bebop: The Movie",
+          "fullTitle": "Cowboy Bebop: The Movie (2001)",
+          "year": "2001",
+          "image": "https://imdb-api.com/images/original/MV5BMjYzYWM4YTItZjJiMC00OTM5LTg3NDgtOGQ2Njk2ZWNhN2QwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6947_AL_.jpg",
+          "plot": "A terrorist explosion releases a deadly virus on the masses, and it's up the bounty-hunting Bebop crew to catch the cold-blooded culprit.",
+          "directors": "Directors: Shin'ichirô Watanabe, Tensai Okamura, and 2 more credits »",
+          "stars": "Beau Billingslea, Melissa Fahn, Nicholas Guest",
+          "genres": "Animation, Action, Crime",
+          "imDbRating": "7.9"
+        },
+        {
+          "id": "tt0423731",
+          "title": "Samurai Champloo",
+          "fullTitle": "Samurai Champloo (2004–2005)",
+          "year": "2004–2005",
+          "image": "https://imdb-api.com/images/original/MV5BOWNhMDMyMDYtNzJlOS00YzhhLWFiMjktYWY1MzMzZGZhOGRjXkEyXkFqcGdeQXVyNDYzNTI2ODc@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "Fuu, a waitress who works in a teahouse, rescues two master swordsmen, Mugen and Jin, from their execution to help her find the \"samurai who smells of sunflowers.\"",
+          "directors": "",
+          "stars": "Kazuya Nakai, Ginpei Sato, Ayako Kawasumi",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "8.5"
+        },
+        {
+          "id": "tt1910272",
+          "title": "Steins;Gate",
+          "fullTitle": "Steins;Gate (2011–2015)",
+          "year": "2011–2015",
+          "image": "https://imdb-api.com/images/original/MV5BMjUxMzE4ZDctODNjMS00MzIwLThjNDktODkwYjc5YWU0MDc0XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "After discovering time travel, a university student and his colleagues must use their knowledge of it to stop an evil organization and their diabolical plans.",
+          "directors": "",
+          "stars": "Mamoru Miyano, Asami Imai, Kana Hanazawa",
+          "genres": "Animation, Comedy, Drama",
+          "imDbRating": "8.8"
+        },
+        {
+          "id": "tt1355642",
+          "title": "Fullmetal Alchemist: Brotherhood",
+          "fullTitle": "Fullmetal Alchemist: Brotherhood (2009–2012)",
+          "year": "2009–2012",
+          "image": "https://imdb-api.com/images/original/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7158_AL_.jpg",
+          "plot": "Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms.",
+          "directors": "",
+          "stars": "Kent Williams, Iemasa Kayumi, Vic Mignogna",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "9.1"
+        },
+        {
+          "id": "tt0112159",
+          "title": "Neon Genesis Evangelion",
+          "fullTitle": "Neon Genesis Evangelion (1995–1996)",
+          "year": "1995–1996",
+          "image": "https://imdb-api.com/images/original/MV5BYjY1Y2ZmNDctZWQ3Yy00MTE3LTk2M2QtMjQ0MDA5ODVjMDEyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father.",
+          "directors": "",
+          "stars": "Megumi Ogata, Megumi Hayashibara, Kotono Mitsuishi",
+          "genres": "Animation, Action, Drama",
+          "imDbRating": "8.5"
+        },
+        {
+          "id": "tt0318871",
+          "title": "Berserk",
+          "fullTitle": "Berserk (1997–1998)",
+          "year": "1997–1998",
+          "image": "https://imdb-api.com/images/original/MV5BYWE1YTU4NmYtMTY2Ni00NDIxLTgwMzYtNWJjYWE4MDE5OTE1XkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.7158_AL_.jpg",
+          "plot": "Guts is a skilled swordsman who joins forces with a mercenary group named 'The Band of the Hawk', lead by the charismatic Griffith, and fights with them as they battle their way into the royal court.",
+          "directors": "",
+          "stars": "Nobutoshi Canna, Marc Diraison, Carrie Keranen",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "8.7"
+        },
+        {
+          "id": "tt0877057",
+          "title": "Death Note",
+          "fullTitle": "Death Note (2006–2007)",
+          "year": "2006–2007",
+          "image": "https://imdb-api.com/images/original/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_Ratio0.6842_AL_.jpg",
+          "plot": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
+          "directors": "",
+          "stars": "Mamoru Miyano, Brad Swaile, Vincent Tong",
+          "genres": "Animation, Crime, Drama",
+          "imDbRating": "9"
+        },
+        {
+          "id": "tt4508902",
+          "title": "One Punch Man",
+          "fullTitle": "One Punch Man (TV Series 2015)",
+          "year": "TV Series 2015",
+          "image": "https://imdb-api.com/images/original/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "The story of Saitama, a hero that does it just for fun & can defeat his enemies with a single punch.",
+          "directors": "",
+          "stars": "Makoto Furukawa, Kaito Ishikawa, Max Mittelman",
+          "genres": "Animation, Action, Comedy",
+          "imDbRating": "8.8"
+        },
+        {
+          "id": "tt0994314",
+          "title": "Code Geass",
+          "fullTitle": "Code Geass (2006–2012)",
+          "year": "2006–2012",
+          "image": "https://imdb-api.com/images/original/MV5BYmEyM2VlZWItNWY4Ni00YmY2LWE3YTAtYjljMmU1MWEyYmZiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7263_AL_.jpg",
+          "plot": "After being given a mysterious power to control others, an outcast prince becomes the masked leader of the rebellion against an all powerful empire",
+          "directors": "",
+          "stars": "Johnny Yong Bosch, Yuri Lowenthal, Jun Fukuyama",
+          "genres": "Animation, Action, Drama",
+          "imDbRating": "8.6"
+        },
+        {
+          "id": "tt2098220",
+          "title": "Hunter x Hunter",
+          "fullTitle": "Hunter x Hunter (2011–2014)",
+          "year": "2011–2014",
+          "image": "https://imdb-api.com/images/original/MV5BZjNmZDhkN2QtNDYyZC00YzJmLTg0ODUtN2FjNjhhMzE3ZmUxXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "Gon Freecss aspires to become a Hunter, an exceptional being capable of greatness. With his friends and his potential, he seeks for his father who left him when he was younger.",
+          "directors": "",
+          "stars": "Issei Futamata, Megumi Han, Cristina Valenzuela",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "8.9"
+        },
+        {
+          "id": "tt10233448",
+          "title": "Vinland Saga",
+          "fullTitle": "Vinland Saga (2019)",
+          "year": "2019",
+          "image": "https://imdb-api.com/images/original/MV5BN2UwOTMwMjMtZTE5MS00YmY4LTg4YjAtZDE3ZTg3YTU5MmQ2XkEyXkFqcGdeQXVyODEyMDIxNDY@._V1_Ratio0.7053_AL_.jpg",
+          "plot": "Thorfinn pursues a journey with his father's killer in order to take revenge and end his life in a duel as an honorable warrior and pay his father a homage.",
+          "directors": "",
+          "stars": "Naoya Uchida, Hiroki Yasumoto, Yûto Uemura",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "8.8"
+        },
+        {
+          "id": "tt5897304",
+          "title": "Mob Psycho 100",
+          "fullTitle": "Mob Psycho 100 (TV Series 2016)",
+          "year": "TV Series 2016",
+          "image": "https://imdb-api.com/images/original/MV5BZmE1NjIyNjYtMTVmMy00M2YyLTljMjMtZGQwYmUxOTU4NjRlXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.6947_AL_.jpg",
+          "plot": "A psychic middle school boy tries to live a normal life and keep his growing powers under control, even though he constantly gets into trouble.",
+          "directors": "",
+          "stars": "Setsuo Ito, Takahiro Sakurai, Akio Ôtsuka",
+          "genres": "Animation, Action, Comedy",
+          "imDbRating": "8.5"
+        }
+      ],
+      "tvSeriesInfo": {
+        "yearEnd": "1999",
+        "creators": "Hajime Yatate",
+        "creatorList": [
+          {
+            "id": "nm0946695",
+            "name": "Hajime Yatate"
+          }
+        ],
+        "seasons": [
+          "1"
+        ]
+      },
+      "tvEpisodeInfo": null,
+      "errorMessage": ""
+    },
+    {
+      "id": "tt1355642",
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "originalTitle": "Hagane no renkinjutsushi",
+      "fullTitle": "Fullmetal Alchemist: Brotherhood (TV Series 2009–2012)",
+      "type": "TVSeries",
+      "year": "2009",
+      "image": "https://imdb-api.com/images/original/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7090_AL_.jpg",
+      "releaseDate": "2009-04-05",
+      "runtimeMins": "24",
+      "runtimeStr": "24mins",
+      "plot": "Two brothers lose their mother to an incurable disease. With the power of \"alchemy\", they use taboo knowledge to resurrect her. The process fails, and as a toll for using this type of alchemy, the older brother, Edward Elric loses his left leg while the younger brother, Alphonse Elric loses his entire body. To save his brother, Edward sacrifices his right arm and is able to affix his brother's soul to a suit of armor. With the help of a family friend, Edward receives metal limbs - \"automail\" - to replace his lost ones. With that, Edward vows to search for the Philosopher's Stone to return the brothers to their original bodies, even if it means becoming a \"State Alchemist\", one who uses his/her alchemy for the military.",
+      "plotLocal": "",
+      "plotLocalIsRtl": false,
+      "awards": "Top Rated TV #19 | 3 wins & 4 nominations.",
+      "directors": "",
+      "directorList": [],
+      "writers": "",
+      "writerList": [],
+      "stars": "Kent Williams, Iemasa Kayumi, Vic Mignogna, Muriel Hofmann",
+      "starList": [
+        {
+          "id": "nm0931060",
+          "name": "Kent Williams"
+        },
+        {
+          "id": "nm0443509",
+          "name": "Iemasa Kayumi"
+        },
+        {
+          "id": "nm0586003",
+          "name": "Vic Mignogna"
+        },
+        {
+          "id": "nm5023502",
+          "name": "Muriel Hofmann"
+        }
+      ],
+      "actorList": [
+        {
+          "id": "nm0931060",
+          "image": "https://imdb-api.com/images/original/MV5BM2VhMDcwYTQtYjcyNi00ZjlhLTk4ZDUtZGFiYjljYjI3OWIyXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Kent Williams",
+          "asCharacter": "Narrator / ... 64 episodes, 2009-2010"
+        },
+        {
+          "id": "nm0443509",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Iemasa Kayumi",
+          "asCharacter": "Narrator / ... 63 episodes, 2009-2010"
+        },
+        {
+          "id": "nm0586003",
+          "image": "https://imdb-api.com/images/original/MV5BMTBlYWFkNTctMWNjYi00MjdkLTgwODEtN2VmZjFkODNiMGNiXkEyXkFqcGdeQXVyMzk1ODgzNA@@._V1_Ratio1.3182_AL_.jpg",
+          "name": "Vic Mignogna",
+          "asCharacter": "Edward Elric / ... 64 episodes, 2009-2012"
+        },
+        {
+          "id": "nm5023502",
+          "image": "https://imdb-api.com/images/original/MV5BZjQ4ZTExNDItNzcyZS00MDZlLWJkODItYzdhYmY4NjVmODc0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Muriel Hofmann",
+          "asCharacter": "Edward Elric (Animax Asia dub) 62 episodes, 2009-2010"
+        },
+        {
+          "id": "nm9239889",
+          "image": "https://imdb-api.com/images/original/MV5BNGQyMjM4YzMtNTUyMi00MGQ5LWI1ZWMtMjY4MDIzY2ExOTFlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Lili Troncale",
+          "asCharacter": "Alphonse Elric (Animax Asia dub) 62 episodes, 2009-2010"
+        },
+        {
+          "id": "nm0657139",
+          "image": "https://imdb-api.com/images/original/MV5BYmUxNDdlNDgtZTljMS00YjEzLTlkMWQtZTVjZDUxMDk5ZDAyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.7727_AL_.jpg",
+          "name": "Romi Pak",
+          "asCharacter": "Edward Elric / ... 62 episodes, 2009-2010"
+        },
+        {
+          "id": "nm3509465",
+          "image": "https://imdb-api.com/images/original/MV5BNTY5NzkzZDQtYzVkMC00Yjg4LWI0MGMtZjdhYjllZDJjZDQwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.9091_AL_.jpg",
+          "name": "Maxey Whitehead",
+          "asCharacter": "Alphonse Elric / ... 60 episodes, 2009-2012"
+        },
+        {
+          "id": "nm1069584",
+          "image": "https://imdb-api.com/images/original/MV5BYmUxZGRmZmItYjdmYS00ZTI0LWFkMWItNzNkNjU2YjFjMDBjXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Rie Kugimiya",
+          "asCharacter": "Alphonse Elric / ... 59 episodes, 2009-2010"
+        },
+        {
+          "id": "nm0992184",
+          "image": "https://imdb-api.com/images/original/MV5BMTQzMDc4NzA1NV5BMl5BanBnXkFtZTgwMjM4NzYyMjE@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Travis Willingham",
+          "asCharacter": "Roy Mustang 48 episodes, 2009-2012"
+        },
+        {
+          "id": "nm0586528",
+          "image": "https://imdb-api.com/images/original/MV5BMzIzNDUyNjAtZDRhNC00OGMwLTlkODgtOTIyYjJkMDJlZTI2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Shin'ichirô Miki",
+          "asCharacter": "Roy Mustang / ... 46 episodes, 2009-2010"
+        },
+        {
+          "id": "nm1513684",
+          "image": "https://imdb-api.com/images/original/MV5BZDM4MjBlNWItMDM5Ni00MWIxLTlkMjMtMWEzOGUyYzRkZmQ1XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Colleen Clinkenbeard",
+          "asCharacter": "Riza Hawkeye / ... 45 episodes, 2009-2010"
+        },
+        {
+          "id": "nm1046347",
+          "image": "https://imdb-api.com/images/original/MV5BMDVjODY3OWYtMmJiNC00ODY3LTgxNGMtNWI0OGQwNTBhODI4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7727_AL_.jpg",
+          "name": "Fumiko Orikasa",
+          "asCharacter": "Riza Hawkeye 40 episodes, 2009-2010"
+        },
+        {
+          "id": "nm2057312",
+          "image": "https://imdb-api.com/images/original/MV5BYjA3NTcyYTUtZTI0Zi00MmNkLWJlYTQtZDU0YWNlMmY1ZTZiXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "J. Michael Tatum",
+          "asCharacter": "Scar / ... 39 episodes, 2009-2010"
+        },
+        {
+          "id": "nm1399925",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Kenta Miyake",
+          "asCharacter": "Scar / ... 38 episodes, 2009-2010"
+        },
+        {
+          "id": "nm3413669",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Yuki Hayashi",
+          "asCharacter": "Denny Brosh / ... 35 episodes, 2009-2010"
+        },
+        {
+          "id": "nm1708798",
+          "image": "https://imdb-api.com/images/original/MV5BYTA2OTYxZDItMGI2ZS00MjRkLThhM2EtODI5YzhmODQxYTBjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Caitlin Glass",
+          "asCharacter": "Winry Rockbell / ... 32 episodes, 2009-2012"
+        },
+        {
+          "id": "nm0722676",
+          "image": "https://imdb-api.com/images/original/MV5BNmU3NDJkMjEtNmVmYi00ZDYwLTllODktNGU4OWRiZjI5YmQ2XkEyXkFqcGdeQXVyNTA5NjQ5MTY@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Monica Rial",
+          "asCharacter": "May Chang / ... 31 episodes, 2009-2012"
+        },
+        {
+          "id": "nm3057349",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Megumi Takamoto",
+          "asCharacter": "Winry Rockbell 30 episodes, 2009-2010"
+        },
+        {
+          "id": "nm2969903",
+          "image": "https://imdb-api.com/images/original/MV5BMzQxMzI5N2MtNWQ0NC00YTBjLWJkYzAtNmJkM2Y2YjU1NjNhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Scott Freeman",
+          "asCharacter": "Additional Voices 29 episodes, 2009-2010"
+        },
+        {
+          "id": "nm6148787",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Mai Gotou",
+          "asCharacter": "May Chang 28 episodes, 2009-2010"
+        },
+        {
+          "id": "nm0754526",
+          "image": "https://imdb-api.com/images/original/MV5BMDM0YmNkYzEtZjNkYy00OWNlLThkM2YtZTExYzQyOTRlZjg1XkEyXkFqcGdeQXVyNjEwODk4MzQ@._V1_Ratio0.7727_AL_.jpg",
+          "name": "Christopher Sabat",
+          "asCharacter": "Alex Louis Armstrong / ... 27 episodes, 2009-2012"
+        },
+        {
+          "id": "nm3631965",
+          "image": "https://imdb-api.com/images/original/MV5BNDE1Yjg0NWEtMDk2MC00ODFiLWE5NmQtMTFhZWFmZmJjMmY4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Tia Lynn Ballard",
+          "asCharacter": "Shao May / ... 24 episodes, 2009-2012"
+        },
+        {
+          "id": "nm1920556",
+          "image": "https://imdb-api.com/images/original/MV5BZjkxOWNiMjYtMzM1ZC00MDk3LWJkZmEtMDMyNzI2MGFmYjlhXkEyXkFqcGdeQXVyMjI3NjU1Mjg@._V1_Ratio1.5000_AL_.jpg",
+          "name": "Todd Haberkorn",
+          "asCharacter": "Ling Yao 27 episodes, 2009-2012"
+        },
+        {
+          "id": "nm1235109",
+          "image": "https://imdb-api.com/images/original/MV5BNTk4NGZjZmUtNWQzOS00YThiLWFiMDQtYTM4YjNlZjViM2IzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Ed Blaylock",
+          "asCharacter": "King Bradley 26 episodes, 2009-2010"
+        },
+        {
+          "id": "nm0882581",
+          "image": "https://imdb-api.com/images/original/MV5BZGViYmU2NTktZmFiZS00N2JlLWI0NDctMTc2ZWUzNDMzZWQ4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+          "name": "Kenji Utsumi",
+          "asCharacter": "Alex Louis Armstrong / ... 26 episodes, 2009-2010"
+        }
+      ],
+      "fullCast": null,
+      "genres": "Animation, Action, Adventure, Comedy, Drama, Fantasy, Sci-Fi",
+      "genreList": [
+        {
+          "key": "Animation",
+          "value": "Animation"
+        },
+        {
+          "key": "Action",
+          "value": "Action"
+        },
+        {
+          "key": "Adventure",
+          "value": "Adventure"
+        },
+        {
+          "key": "Comedy",
+          "value": "Comedy"
+        },
+        {
+          "key": "Drama",
+          "value": "Drama"
+        },
+        {
+          "key": "Fantasy",
+          "value": "Fantasy"
+        },
+        {
+          "key": "Sci-Fi",
+          "value": "Sci-Fi"
+        }
+      ],
+      "companies": "Bones, Square Enix Company",
+      "companyList": [
+        {
+          "id": "co0073964",
+          "name": "Bones"
+        },
+        {
+          "id": "co0102823",
+          "name": "Square Enix Company"
+        }
+      ],
+      "countries": "Japan",
+      "countryList": [
+        {
+          "key": "Japan",
+          "value": "Japan"
+        }
+      ],
+      "languages": "Japanese",
+      "languageList": [
+        {
+          "key": "Japanese",
+          "value": "Japanese"
+        }
+      ],
+      "contentRating": "TV-14",
+      "imDbRating": "9.1",
+      "imDbRatingVotes": "126647",
+      "metacriticRating": "",
+      "ratings": {
+        "imDbId": "tt1355642",
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "fullTitle": "Fullmetal Alchemist: Brotherhood (TV Series 2009–2012)",
+        "type": "TVSeries",
+        "year": "2009",
+        "imDb": "9.1",
+        "metacritic": "",
+        "theMovieDb": "8.7",
+        "rottenTomatoes": "100",
+        "tV_com": "",
+        "filmAffinity": "8.3",
+        "errorMessage": ""
+      },
+      "wikipedia": null,
+      "posters": null,
+      "images": null,
+      "trailer": {
+        "imDbId": "tt1355642",
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "fullTitle": "Fullmetal Alchemist: Brotherhood (TV Series 2009–2012)",
+        "type": "TVSeries",
+        "year": "2009",
+        "videoId": "vi4196311833",
+        "videoTitle": "Fullmetal Alchemist Brotherhood: The Complete Series: Part 1",
+        "videoDescription": "Trailer for Fullmetal Alchemist Brotherhood: The Complete Series - Part 1",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTM5OGRmYjQtYWRkMy00OGU3LWFjZGUtZmI3YzBkODU3NTFhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "04/20/2012 03:17:53",
+        "link": "https://www.imdb.com/video/vi4196311833",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi4196311833/imdb/embed",
+        "errorMessage": ""
+      },
+      "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+      },
+      "tagline": "",
+      "keywords": "anime,alchemy,armor,loss of limb,anti villain",
+      "keywordList": [
+        "anime",
+        "alchemy",
+        "armor",
+        "loss of limb",
+        "anti villain"
+      ],
+      "similars": [
+        {
+          "id": "tt0877057",
+          "title": "Death Note",
+          "fullTitle": "Death Note (2006–2007)",
+          "year": "2006–2007",
+          "image": "https://imdb-api.com/images/original/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_Ratio0.6842_AL_.jpg",
+          "plot": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
+          "directors": "",
+          "stars": "Mamoru Miyano, Brad Swaile, Vincent Tong",
+          "genres": "Animation, Crime, Drama",
+          "imDbRating": "9"
+        },
+        {
+          "id": "tt2098220",
+          "title": "Hunter x Hunter",
+          "fullTitle": "Hunter x Hunter (2011–2014)",
+          "year": "2011–2014",
+          "image": "https://imdb-api.com/images/original/MV5BZjNmZDhkN2QtNDYyZC00YzJmLTg0ODUtN2FjNjhhMzE3ZmUxXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "Gon Freecss aspires to become a Hunter, an exceptional being capable of greatness. With his friends and his potential, he seeks for his father who left him when he was younger.",
+          "directors": "",
+          "stars": "Issei Futamata, Megumi Han, Cristina Valenzuela",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "8.9"
+        },
+        {
+          "id": "tt0421357",
+          "title": "Fullmetal Alchemist",
+          "fullTitle": "Fullmetal Alchemist (2003–2004)",
+          "year": "2003–2004",
+          "image": "https://imdb-api.com/images/original/MV5BMjYwNDlhMWYtMWE1ZS00ZjVhLWI1NzItMjQ5ZGI4NTIwZjQ5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "When a failed alchemical ritual leaves brothers Edward and Alphonse Elric with severely damaged bodies, they begin searching for the one thing that can save them; the fabled philosopher's stone.",
+          "directors": "",
+          "stars": "Vic Mignogna, Aaron Dismuke, Romi Pak",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "8.5"
+        },
+        {
+          "id": "tt4508902",
+          "title": "One Punch Man",
+          "fullTitle": "One Punch Man (TV Series 2015)",
+          "year": "TV Series 2015",
+          "image": "https://imdb-api.com/images/original/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "The story of Saitama, a hero that does it just for fun & can defeat his enemies with a single punch.",
+          "directors": "",
+          "stars": "Makoto Furukawa, Kaito Ishikawa, Max Mittelman",
+          "genres": "Animation, Action, Comedy",
+          "imDbRating": "8.8"
+        },
+        {
+          "id": "tt2560140",
+          "title": "Attack on Titan",
+          "fullTitle": "Attack on Titan (TV Series 2013)",
+          "year": "TV Series 2013",
+          "image": "https://imdb-api.com/images/original/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
+          "directors": "",
+          "stars": "Yûki Kaji, Marina Inoue, Josh Grelle",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "8.9"
+        },
+        {
+          "id": "tt0988824",
+          "title": "Naruto: Shippûden",
+          "fullTitle": "Naruto: Shippûden (2007–2017)",
+          "year": "2007–2017",
+          "image": "https://imdb-api.com/images/original/MV5BMTE5NzIwMGUtYTE1MS00MDUxLTgyZjctOWVkZDAxM2M4ZWQ4XkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.",
+          "directors": "",
+          "stars": "Junko Takeuchi, Maile Flanagan, Kate Higgins",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "8.6"
+        },
+        {
+          "id": "tt9335498",
+          "title": "Demon Slayer: Kimetsu No Yaiba",
+          "fullTitle": "Demon Slayer: Kimetsu No Yaiba (TV Series 2019)",
+          "year": "TV Series 2019",
+          "image": "https://imdb-api.com/images/original/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.7158_AL_.jpg",
+          "plot": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+          "directors": "",
+          "stars": "Natsuki Hanae, Zach Aguilar, Abby Trott",
+          "genres": "Animation, Action, Fantasy",
+          "imDbRating": "8.7"
+        },
+        {
+          "id": "tt0994314",
+          "title": "Code Geass",
+          "fullTitle": "Code Geass (2006–2012)",
+          "year": "2006–2012",
+          "image": "https://imdb-api.com/images/original/MV5BYmEyM2VlZWItNWY4Ni00YmY2LWE3YTAtYjljMmU1MWEyYmZiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7263_AL_.jpg",
+          "plot": "After being given a mysterious power to control others, an outcast prince becomes the masked leader of the rebellion against an all powerful empire",
+          "directors": "",
+          "stars": "Johnny Yong Bosch, Yuri Lowenthal, Jun Fukuyama",
+          "genres": "Animation, Action, Drama",
+          "imDbRating": "8.6"
+        },
+        {
+          "id": "tt1910272",
+          "title": "Steins;Gate",
+          "fullTitle": "Steins;Gate (2011–2015)",
+          "year": "2011–2015",
+          "image": "https://imdb-api.com/images/original/MV5BMjUxMzE4ZDctODNjMS00MzIwLThjNDktODkwYjc5YWU0MDc0XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "After discovering time travel, a university student and his colleagues must use their knowledge of it to stop an evil organization and their diabolical plans.",
+          "directors": "",
+          "stars": "Mamoru Miyano, Asami Imai, Kana Hanazawa",
+          "genres": "Animation, Comedy, Drama",
+          "imDbRating": "8.8"
+        },
+        {
+          "id": "tt10233448",
+          "title": "Vinland Saga",
+          "fullTitle": "Vinland Saga (2019)",
+          "year": "2019",
+          "image": "https://imdb-api.com/images/original/MV5BN2UwOTMwMjMtZTE5MS00YmY4LTg4YjAtZDE3ZTg3YTU5MmQ2XkEyXkFqcGdeQXVyODEyMDIxNDY@._V1_Ratio0.7053_AL_.jpg",
+          "plot": "Thorfinn pursues a journey with his father's killer in order to take revenge and end his life in a duel as an honorable warrior and pay his father a homage.",
+          "directors": "",
+          "stars": "Naoya Uchida, Hiroki Yasumoto, Yûto Uemura",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "8.8"
+        },
+        {
+          "id": "tt5626028",
+          "title": "My Hero Academia",
+          "fullTitle": "My Hero Academia (TV Series 2016)",
+          "year": "TV Series 2016",
+          "image": "https://imdb-api.com/images/original/MV5BNmQzYmE2MGEtZjk4YS00YmVjLWEwZWMtODRkMjc4MTM5N2I3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.8000_AL_.jpg",
+          "plot": "A superhero-loving boy without any powers is determined to enroll in a prestigious hero academy and learn what it really means to be a hero.",
+          "directors": "",
+          "stars": "Daiki Yamashita, Nobuhiko Okamoto, Ayane Sakura",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "8.5"
+        },
+        {
+          "id": "tt0213338",
+          "title": "Cowboy Bebop",
+          "fullTitle": "Cowboy Bebop (1998–1999)",
+          "year": "1998–1999",
+          "image": "https://imdb-api.com/images/original/MV5BNGNlNjBkODEtZThlOC00YzUxLWI0MjMtMjk3YzJmMDFlNWZlXkEyXkFqcGdeQXVyNjI0MDg2NzE@._V1_Ratio0.6737_AL_.jpg",
+          "plot": "The futuristic misadventures and tragedies of an easygoing bounty hunter and his partners.",
+          "directors": "",
+          "stars": "Kôichi Yamadera, Unshô Ishizuka, Megumi Hayashibara",
+          "genres": "Animation, Action, Adventure",
+          "imDbRating": "8.9"
+        }
+      ],
+      "tvSeriesInfo": {
+        "yearEnd": "2012",
+        "creators": "Hiromu Arakawa",
+        "creatorList": [
+          {
+            "id": "nm2086079",
+            "name": "Hiromu Arakawa"
+          }
+        ],
+        "seasons": [
+          "2009",
+          "2010",
+          "2012"
+        ]
+      },
+      "tvEpisodeInfo": null,
+      "errorMessage": ""
+    },
+    {
+      "id": "tt12343534",
+      "title": "Jujutsu Kaisen",
+      "originalTitle": "",
+      "fullTitle": "Jujutsu Kaisen (2020– )",
+      "type": "TVSeries",
+      "year": "2020",
+      "image": "https://imdb-api.com/images/original/MV5BNzQyYzU3Y2MtOWY2Yy00ZGM2LTg3ZTUtMDJkZTJiMmEzMjYxXkEyXkFqcGdeQXVyMTI2NTY3NDg5._V1_Ratio0.8043_AL_.jpg",
+      "releaseDate": "2020-10-02",
+      "runtimeMins": "24",
+      "runtimeStr": "24min",
+      "plot": "Yuji Itadori, a kind-hearted teenager, joins his school's Occult Club for fun, but discovers that its members are actual sorcerers who can manipulate the energy between beings for their own use. He hears about a cursed talisman - the finger of Sukuna, a demon - and its being targeted by other cursed beings. Yuji eats the finger to protect his friends, and ends up becoming Sukuna's host. However, Yuji discovers that he has inherited magic and is able to control this power without interference from Sukuna. He joins the Tokyo Metropolitan Magic Technical College to consumes all of Sukuna's fingers, which will enable a full exorcism to take place that will free him.",
+      "plotLocal": "",
+      "plotLocalIsRtl": false,
+      "awards": "Top rated TV #125 | 4 wins & 7 nominations",
+      "directors": "",
+      "directorList": [],
+      "writers": "",
+      "writerList": [],
+      "stars": "Junya Enoki, Adam McArthur, Yûichi Nakamura",
+      "starList": [
+        {
+          "id": "nm7121595",
+          "name": "Junya Enoki"
+        },
+        {
+          "id": "nm1361499",
+          "name": "Adam McArthur"
+        },
+        {
+          "id": "nm1697606",
+          "name": "Yûichi Nakamura"
+        }
+      ],
+      "actorList": [
+        {
+          "id": "nm7121595",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Junya Enoki",
+          "asCharacter": "Yuji Itadorias Yuji Itadori"
+        },
+        {
+          "id": "nm1361499",
+          "image": "https://imdb-api.com/images/original/MV5BNmJlNTk1YTYtNzg4MC00MjYwLWEzNzQtYzA2NmFmN2UwZDU0XkEyXkFqcGdeQXVyMTE2ODc2NjM@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Adam McArthur",
+          "asCharacter": "Yuuji Itadorias Yuuji Itadori"
+        },
+        {
+          "id": "nm1697606",
+          "image": "https://imdb-api.com/images/original/MV5BZjJkYzkyOGYtNDg0ZS00MjBmLWI1MTQtYjNlZTEwZDlkZjI2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.5000_AL_.jpg",
+          "name": "Yûichi Nakamura",
+          "asCharacter": "Satoru Gojoas Satoru Gojo"
+        },
+        {
+          "id": "nm6793636",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Yuma Uchida",
+          "asCharacter": "Megumi Fushiguroas Megumi Fushiguro"
+        },
+        {
+          "id": "nm4439231",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Asami Seto",
+          "asCharacter": "Nobara Kugisakias Nobara Kugisaki…"
+        },
+        {
+          "id": "nm0412628",
+          "image": "https://imdb-api.com/images/original/MV5BNjE1NjNhZDctZmYyNy00ZDE5LWIwYTctN2VkMDM3OWEyYTJhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Mitsuo Iwata",
+          "asCharacter": "Kiyotaka Ijichias Kiyotaka Ijichi"
+        },
+        {
+          "id": "nm4858403",
+          "image": "https://imdb-api.com/images/original/MV5BYzZlMmVhY2ItYTNjZC00NTBmLWIxYjQtMTdjNDk1MzU3N2FiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Nobunaga Shimazaki",
+          "asCharacter": "Mahitoas Mahito"
+        },
+        {
+          "id": "nm0782840",
+          "image": "https://imdb-api.com/images/original/MV5BMjQ3MWZjYTEtNzg4Mi00MzE1LWFjNTUtMjEzNGNjZTk4YjliXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Tomokazu Seki",
+          "asCharacter": "Pandaas Panda"
+        },
+        {
+          "id": "nm4262853",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Mikako Komatsu",
+          "asCharacter": "Maki Zen'inas Maki Zen'in"
+        },
+        {
+          "id": "nm2146022",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Koki Uchiyama",
+          "asCharacter": "Toge Inumakias Toge Inumaki"
+        },
+        {
+          "id": "nm1146347",
+          "image": "https://imdb-api.com/images/original/MV5BNTMzNGJkOTUtMDExOS00Y2VjLTk1NmItOTJhNmE3MDE1NzI4XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Jun'ichi Suwabe",
+          "asCharacter": "Ryomen Sukunaas Ryomen Sukuna"
+        },
+        {
+          "id": "nm0419760",
+          "image": "https://imdb-api.com/images/original/MV5BMTY4MDUzMDg3MV5BMl5BanBnXkFtZTcwOTM4MTkyMQ@@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Tara Sands",
+          "asCharacter": "Utahimeas Utahime…"
+        },
+        {
+          "id": "nm1328859",
+          "image": "https://imdb-api.com/images/original/MV5BN2JlMzk5ZjEtNDM1Mi00OTc1LWI2ZTAtZWM0MmZmODgxMDFjXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Kenjirô Tsuda",
+          "asCharacter": "Kento Nanamias Kento Nanami"
+        },
+        {
+          "id": "nm0157133",
+          "image": "https://imdb-api.com/images/original/MV5BMTdmNDg3NmEtOGRhYy00YjA3LTljMWQtYjhmNTgwZmJmYWFhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0571_AL_.jpg",
+          "name": "Shigeru Chiba",
+          "asCharacter": "Jogoas Jogo…"
+        },
+        {
+          "id": "nm1425287",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Takaya Kuroda",
+          "asCharacter": "Masamichi Yagaas Masamichi Yaga…"
+        },
+        {
+          "id": "nm4515899",
+          "image": "https://imdb-api.com/images/original/MV5BYmVmNWI3YjktZGRiMS00MWNlLTk0MjEtNDA2ZmU4YjkwOTE1XkEyXkFqcGdeQXVyMzc4MTcyODE@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Amber Lee Connors",
+          "asCharacter": "Mei Meias Mei Mei…"
+        },
+        {
+          "id": "nm0757327",
+          "image": "https://imdb-api.com/images/original/MV5BZmIyMGYyOTYtMGQ5OS00MWM3LWIxNzUtYTkyOWExOWQ4YjhiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Takahiro Sakurai",
+          "asCharacter": "Suguru Getoas Suguru Geto"
+        },
+        {
+          "id": "nm1878161",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Subaru Kimura",
+          "asCharacter": "Aoi Todoas Aoi Todo"
+        }
+      ],
+      "fullCast": null,
+      "genres": "Animation, Action, Adventure",
+      "genreList": [
+        {
+          "key": "Animation",
+          "value": "Animation"
+        },
+        {
+          "key": "Action",
+          "value": "Action"
+        },
+        {
+          "key": "Adventure",
+          "value": "Adventure"
+        }
+      ],
+      "companies": "Mappa, TOHO animation",
+      "companyList": [
+        {
+          "id": "co0376600",
+          "name": "Mappa"
+        },
+        {
+          "id": "co0484522",
+          "name": "TOHO animation"
+        }
+      ],
+      "countries": "Japan",
+      "countryList": [
+        {
+          "key": "Japan",
+          "value": "Japan"
+        }
+      ],
+      "languages": "Japanese",
+      "languageList": [
+        {
+          "key": "Japanese",
+          "value": "Japanese"
+        }
+      ],
+      "contentRating": "TV-MA",
+      "imDbRating": "8.7",
+      "imDbRatingVotes": "32171",
+      "metacriticRating": null,
+      "ratings": {
+        "imDbId": "tt12343534",
+        "title": "Jujutsu Kaisen",
+        "fullTitle": "Jujutsu Kaisen (2020– )",
+        "type": "TVSeries",
+        "year": "2020",
+        "imDb": "8.7",
+        "metacritic": "",
+        "theMovieDb": "8.5",
+        "rottenTomatoes": "",
+        "tV_com": "",
+        "filmAffinity": "7.6",
+        "errorMessage": ""
+      },
+      "wikipedia": null,
+      "posters": null,
+      "images": null,
+      "trailer": {
+        "imDbId": "tt12343534",
+        "title": "Jujutsu Kaisen",
+        "fullTitle": "Jujutsu Kaisen (TV Series 2020– )",
+        "type": "TVSeries",
+        "year": "2020",
+        "videoId": "vi1065664793",
+        "videoTitle": "Official Trailer",
+        "videoDescription": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODlkMjExNjYtMWVkZi00OTk3LTk5ZjctMDZiZDJmZWQwNjBkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "10/06/2020 13:34:02",
+        "link": "https://www.imdb.com/video/vi1065664793",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1065664793/imdb/embed",
+        "errorMessage": ""
+      },
+      "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+      },
+      "tagline": null,
+      "keywords": "exorcism,anime,based on manga",
+      "keywordList": [
+        "exorcism",
+        "anime",
+        "based on manga"
+      ],
+      "similars": [
+        {
+          "id": "tt9335498",
+          "title": "Demon Slayer: Kimetsu no Yaiba",
+          "fullTitle": "Demon Slayer: Kimetsu no Yaiba",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.7246_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.7"
+        },
+        {
+          "id": "tt2098220",
+          "title": "Hunter x Hunter",
+          "fullTitle": "Hunter x Hunter",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BZjNmZDhkN2QtNDYyZC00YzJmLTg0ODUtN2FjNjhhMzE3ZmUxXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6763_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "9.0"
+        },
+        {
+          "id": "tt4508902",
+          "title": "One Punch Man",
+          "fullTitle": "One Punch Man",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.6763_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.8"
+        },
+        {
+          "id": "tt10233448",
+          "title": "Vinland Saga",
+          "fullTitle": "Vinland Saga",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BNmI5YzY1ZmYtZDczNS00NWNiLTk3ZjItMGVkZDllZDJhYTNkXkEyXkFqcGdeQXVyODEyMDIxNDY@._V1_Ratio0.7150_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.8"
+        },
+        {
+          "id": "tt5626028",
+          "title": "My Hero Academia",
+          "fullTitle": "My Hero Academia",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BNmQzYmE2MGEtZjk4YS00YmVjLWEwZWMtODRkMjc4MTM5N2I3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.8019_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.4"
+        },
+        {
+          "id": "tt2560140",
+          "title": "Attack on Titan",
+          "fullTitle": "Attack on Titan",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_Ratio0.6763_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "9.0"
+        },
+        {
+          "id": "tt0988824",
+          "title": "Naruto: Shippûden",
+          "fullTitle": "Naruto: Shippûden",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BMTE5NzIwMGUtYTE1MS00MDUxLTgyZjctOWVkZDAxM2M4ZWQ4XkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6763_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.6"
+        },
+        {
+          "id": "tt5897304",
+          "title": "Mob Psycho 100",
+          "fullTitle": "Mob Psycho 100",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BZmE1NjIyNjYtMTVmMy00M2YyLTljMjMtZGQwYmUxOTU4NjRlXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.6957_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.6"
+        },
+        {
+          "id": "tt1355642",
+          "title": "Fullmetal Alchemist: Brotherhood",
+          "fullTitle": "Fullmetal Alchemist: Brotherhood",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7150_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "9.1"
+        },
+        {
+          "id": "tt0877057",
+          "title": "Death Note",
+          "fullTitle": "Death Note",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_Ratio0.6957_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "9.0"
+        },
+        {
+          "id": "tt13196080",
+          "title": "Tokyo Revengers",
+          "fullTitle": "Tokyo Revengers",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BNTVkMzRlYmMtYzc1Ny00YTQ5LWI5ZTAtNTk3YmYxOWYwZGVlXkEyXkFqcGdeQXVyOTc4OTAwMjU@._V1_Ratio0.7053_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.4"
+        },
+        {
+          "id": "tt0994314",
+          "title": "Code Geass",
+          "fullTitle": "Code Geass",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BYmEyM2VlZWItNWY4Ni00YmY2LWE3YTAtYjljMmU1MWEyYmZiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7343_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.7"
+        }
+      ],
+      "tvSeriesInfo": {
+        "yearEnd": "",
+        "creators": "Seong-Hu Park, Hideaki Abe, Gege Akutami",
+        "creatorList": [
+          {
+            "id": "nm4810022",
+            "name": "Seong-Hu Park"
+          },
+          {
+            "id": "nm9646660",
+            "name": "Hideaki Abe"
+          },
+          {
+            "id": "nm12013605",
+            "name": "Gege Akutami"
+          }
+        ],
+        "seasons": [
+          "1"
+        ]
+      },
+      "tvEpisodeInfo": null,
+      "errorMessage": null
+    },
+    {
+      "id": "tt4508902",
+      "title": "One Punch Man",
+      "originalTitle": "One Punch Man: Wanpanman",
+      "fullTitle": "One Punch Man (2015–2019)",
+      "type": "TVSeries",
+      "year": "2015",
+      "image": "https://imdb-api.com/images/original/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.6762_AL_.jpg",
+      "releaseDate": "2015-10-05",
+      "runtimeMins": null,
+      "runtimeStr": null,
+      "plot": "In a world of superhuman beings, Saitama is a unique hero, he can defeat enemies with a single punch. But being just one hero in a world filled with them, his life is empty and hollow: he gets no respect from anyone, he displays a laidback attitude to everything and for the most part, he finds his overall hero life pointless... and worst of all, he lost his hair due to intense training. These are the adventures of an ordinary yet extraordinary hero.",
+      "plotLocal": "",
+      "plotLocalIsRtl": false,
+      "awards": "Top rated TV #68 | 3 nominations",
+      "directors": "",
+      "directorList": [],
+      "writers": "",
+      "writerList": [],
+      "stars": "Makoto Furukawa, Kaito Ishikawa, Max Mittelman",
+      "starList": [
+        {
+          "id": "nm4646711",
+          "name": "Makoto Furukawa"
+        },
+        {
+          "id": "nm5481013",
+          "name": "Kaito Ishikawa"
+        },
+        {
+          "id": "nm5489754",
+          "name": "Max Mittelman"
+        }
+      ],
+      "actorList": [
+        {
+          "id": "nm4646711",
+          "image": "https://imdb-api.com/images/original/MV5BMjBlMTcxYWQtZDQ2ZC00ZmZjLTlmMzAtYjI1M2Q1ODE5N2Y0XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.5000_AL_.jpg",
+          "name": "Makoto Furukawa",
+          "asCharacter": "Saitamaas Saitama"
+        },
+        {
+          "id": "nm5481013",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Kaito Ishikawa",
+          "asCharacter": "Genosas Genos…"
+        },
+        {
+          "id": "nm5489754",
+          "image": "https://imdb-api.com/images/original/MV5BYjI2NjExNzUtM2FhMC00NzQyLTkwNTMtY2ViZjBlZWQyOWY2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Max Mittelman",
+          "asCharacter": "Saitamaas Saitama"
+        },
+        {
+          "id": "nm6450743",
+          "image": "https://imdb-api.com/images/original/MV5BZmVkMWJkOTQtODgxZS00OGU0LTg5ZWUtNWVhNmNjMGYzYWExXkEyXkFqcGdeQXVyODY2NTU3OTg@._V1_Ratio1.3429_AL_.jpg",
+          "name": "Zach Aguilar",
+          "asCharacter": "Genosas Genos"
+        },
+        {
+          "id": "nm5256487",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Hiromichi Tezuka",
+          "asCharacter": "Commentatoras Commentator…"
+        },
+        {
+          "id": "nm2837894",
+          "image": "https://imdb-api.com/images/original/MV5BMzExYmVhZTktYzMwMi00MjdhLTkzNjQtMmRlMWI3ZTFhMThhXkEyXkFqcGdeQXVyMjAzMjQ4NDc@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Robbie Daymond",
+          "asCharacter": "Mumen Rideras Mumen Rider…"
+        },
+        {
+          "id": "nm1035500",
+          "image": "https://imdb-api.com/images/original/MV5BMTczMDA1MDIzNV5BMl5BanBnXkFtZTYwOTE1OTYy._V1_Ratio1.0286_AL_.jpg",
+          "name": "Kyle Hebert",
+          "asCharacter": "Bespectacled Workeras Bespectacled Worker…"
+        },
+        {
+          "id": "nm5798209",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Shôta Yamamoto",
+          "asCharacter": "Bearded Workeras Bearded Worker…"
+        },
+        {
+          "id": "nm1938624",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Yôji Ueda",
+          "asCharacter": "Megane shokuinas Megane shokuin…"
+        },
+        {
+          "id": "nm5168315",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Sean Chiplock",
+          "asCharacter": "Eyelashesas Eyelashes…"
+        },
+        {
+          "id": "nm7663764",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Yoshiaki Hasegawa",
+          "asCharacter": "Eyelashesas Eyelashes…"
+        },
+        {
+          "id": "nm0861558",
+          "image": "https://imdb-api.com/images/original/MV5BYWQ2YTliOTktZDE3YS00Y2EzLWE2NDMtMDQwN2E1ZjNhZThjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Kirk Thornton",
+          "asCharacter": "Sitchas Sitch…"
+        },
+        {
+          "id": "nm3562961",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Shin'ya Hamazoe",
+          "asCharacter": "Wild Monkeyas Wild Monkey…"
+        },
+        {
+          "id": "nm1075459",
+          "image": "https://imdb-api.com/images/original/MV5BYzQzNmJiM2QtM2M4YS00MDM5LTlkMzItOTdjZjhjN2RkMmJiXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Bill Rogers",
+          "asCharacter": "Allback-manas Allback-man…"
+        },
+        {
+          "id": "nm0585640",
+          "image": "https://imdb-api.com/images/original/MV5BMjc2OTNhZTItNjE1Mi00NzUxLTk1OTktYzM2NzkzY2RjN2JiXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0000_AL_.jpg",
+          "name": "Hikaru Midorikawa",
+          "asCharacter": "Garoas Garo"
+        },
+        {
+          "id": "nm3001460",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Ben Lepley",
+          "asCharacter": "Amai Maskas Amai Mask…"
+        },
+        {
+          "id": "nm1408690",
+          "image": "https://imdb-api.com/images/original/MV5BZWM1YjlhOTktNjYzZS00MzM3LWJlZGEtYzRmNWM5OGJmNGJjXkEyXkFqcGdeQXVyMjU3ODk0Mw@@._V1_Ratio1.7857_AL_.jpg",
+          "name": "Ben Pronsky",
+          "asCharacter": "Lightning Maxas Lightning Max…"
+        },
+        {
+          "id": "nm2961464",
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "name": "Koichi Soma",
+          "asCharacter": "Chain Toadas Chain Toad…"
+        }
+      ],
+      "fullCast": null,
+      "genres": "Animation, Action, Comedy",
+      "genreList": [
+        {
+          "key": "Animation",
+          "value": "Animation"
+        },
+        {
+          "key": "Action",
+          "value": "Action"
+        },
+        {
+          "key": "Comedy",
+          "value": "Comedy"
+        }
+      ],
+      "companies": "Asatsu, Bandai Namco Arts, Bandai Spirits",
+      "companyList": [
+        {
+          "id": "co0154151",
+          "name": "Asatsu"
+        },
+        {
+          "id": "co0727625",
+          "name": "Bandai Namco Arts"
+        },
+        {
+          "id": "co0743106",
+          "name": "Bandai Spirits"
+        }
+      ],
+      "countries": "Japan",
+      "countryList": [
+        {
+          "key": "Japan",
+          "value": "Japan"
+        }
+      ],
+      "languages": "Japanese, English",
+      "languageList": [
+        {
+          "key": "Japanese",
+          "value": "Japanese"
+        },
+        {
+          "key": "English",
+          "value": "English"
+        }
+      ],
+      "contentRating": "TV-PG",
+      "imDbRating": "8.8",
+      "imDbRatingVotes": "135208",
+      "metacriticRating": null,
+      "ratings": {
+        "imDbId": "tt4508902",
+        "title": "One Punch Man",
+        "fullTitle": "One Punch Man (2015– )",
+        "type": "TVSeries",
+        "year": "2015",
+        "imDb": "8.8",
+        "metacritic": "",
+        "theMovieDb": "8.4",
+        "rottenTomatoes": "",
+        "tV_com": "",
+        "filmAffinity": "7.7",
+        "errorMessage": ""
+      },
+      "wikipedia": null,
+      "posters": null,
+      "images": null,
+      "trailer": {
+        "imDbId": "tt4508902",
+        "title": "One Punch Man",
+        "fullTitle": "One Punch Man (TV Series 2015– )",
+        "type": "TVSeries",
+        "year": "2015",
+        "videoId": "vi3474439449",
+        "videoTitle": "Official Trailer",
+        "videoDescription": "The story of Saitama, a hero that does it just for fun & can defeat his enemies with a single punch.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTQzZDUwYTYtMzFlYS00ZmFkLWE4YTctNjIzNDdhODAzOGUyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "04/11/2019 12:57:49",
+        "link": "https://www.imdb.com/video/vi3474439449",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3474439449/imdb/embed",
+        "errorMessage": ""
+      },
+      "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+      },
+      "tagline": null,
+      "keywords": "anime,superhero,parody,satire,depression",
+      "keywordList": [
+        "anime",
+        "superhero",
+        "parody",
+        "satire",
+        "depression"
+      ],
+      "similars": [
+        {
+          "id": "tt1355642",
+          "title": "Fullmetal Alchemist: Brotherhood",
+          "fullTitle": "Fullmetal Alchemist: Brotherhood",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7150_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "9.1"
+        },
+        {
+          "id": "tt0877057",
+          "title": "Death Note",
+          "fullTitle": "Death Note",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_Ratio0.6957_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "9.0"
+        },
+        {
+          "id": "tt2098220",
+          "title": "Hunter x Hunter",
+          "fullTitle": "Hunter x Hunter",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BZjNmZDhkN2QtNDYyZC00YzJmLTg0ODUtN2FjNjhhMzE3ZmUxXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6763_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "9.0"
+        },
+        {
+          "id": "tt12343534",
+          "title": "Jujutsu Kaisen",
+          "fullTitle": "Jujutsu Kaisen",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BNzQyYzU3Y2MtOWY2Yy00ZGM2LTg3ZTUtMDJkZTJiMmEzMjYxXkEyXkFqcGdeQXVyMTI2NTY3NDg5._V1_Ratio0.8019_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.7"
+        },
+        {
+          "id": "tt9335498",
+          "title": "Demon Slayer: Kimetsu no Yaiba",
+          "fullTitle": "Demon Slayer: Kimetsu no Yaiba",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.7246_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.7"
+        },
+        {
+          "id": "tt5897304",
+          "title": "Mob Psycho 100",
+          "fullTitle": "Mob Psycho 100",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BZmE1NjIyNjYtMTVmMy00M2YyLTljMjMtZGQwYmUxOTU4NjRlXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.6957_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.6"
+        },
+        {
+          "id": "tt2560140",
+          "title": "Attack on Titan",
+          "fullTitle": "Attack on Titan",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_Ratio0.6763_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "9.0"
+        },
+        {
+          "id": "tt0988824",
+          "title": "Naruto: Shippûden",
+          "fullTitle": "Naruto: Shippûden",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BMTE5NzIwMGUtYTE1MS00MDUxLTgyZjctOWVkZDAxM2M4ZWQ4XkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6763_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.6"
+        },
+        {
+          "id": "tt1910272",
+          "title": "Steins;Gate",
+          "fullTitle": "Steins;Gate",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BMjUxMzE4ZDctODNjMS00MzIwLThjNDktODkwYjc5YWU0MDc0XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.6763_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.8"
+        },
+        {
+          "id": "tt5626028",
+          "title": "My Hero Academia",
+          "fullTitle": "My Hero Academia",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BNmQzYmE2MGEtZjk4YS00YmVjLWEwZWMtODRkMjc4MTM5N2I3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.8019_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.4"
+        },
+        {
+          "id": "tt0994314",
+          "title": "Code Geass",
+          "fullTitle": "Code Geass",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BYmEyM2VlZWItNWY4Ni00YmY2LWE3YTAtYjljMmU1MWEyYmZiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7343_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.7"
+        },
+        {
+          "id": "tt10233448",
+          "title": "Vinland Saga",
+          "fullTitle": "Vinland Saga",
+          "year": "",
+          "image": "https://imdb-api.com/images/original/MV5BNmI5YzY1ZmYtZDczNS00NWNiLTk3ZjItMGVkZDllZDJhYTNkXkEyXkFqcGdeQXVyODEyMDIxNDY@._V1_Ratio0.7150_AL_.jpg",
+          "plot": "",
+          "directors": "",
+          "stars": "",
+          "genres": "",
+          "imDbRating": "8.8"
+        }
+      ],
+      "tvSeriesInfo": {
+        "yearEnd": "2019",
+        "creators": "Shingo Natsume, Chikara Sakurai, Mike McFarland, One",
+        "creatorList": [
+          {
+            "id": "nm2463335",
+            "name": "Shingo Natsume"
+          },
+          {
+            "id": "nm2191341",
+            "name": "Chikara Sakurai"
+          },
+          {
+            "id": "nm0568772",
+            "name": "Mike McFarland"
+          },
+          {
+            "id": "nm8301461",
+            "name": "One"
+          }
+        ],
+        "seasons": [
+          "1",
+          "2"
+        ]
+      },
+      "tvEpisodeInfo": null,
+      "errorMessage": null
+    }
+  ],
+  "bookInput": [],
+  "userInput": [
+    {
+      "userId": 1,
+      "imdbId": "tt0111161",
+      "rating": "7",
+      "review": "Good Movie",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt0108052",
+      "rating": "9",
+      "review": "aweseome!",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt1375666",
+      "rating": "8",
+      "review": "this is a test",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt5491994",
+      "rating": "8",
+      "review": "Nature!",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt0120689",
+      "rating": "7",
+      "review": "sdfasfsad",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt11032374",
+      "rating": "6",
+      "review": "okay show",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt0245429",
+      "rating": "7",
+      "review": "Great movie",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt0095327",
+      "rating": "6",
+      "review": "this is a great movie",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt0156887",
+      "rating": "8",
+      "review": "Interesting.",
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt0095327",
+      "rating": "8",
+      "review": "Great movie!",
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt0388629",
+      "rating": "8",
+      "review": "good show",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt5626028",
+      "rating": "7",
+      "review": "this is a test\n",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt9335498",
+      "rating": "8",
+      "review": "this show is good. ",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt9359796",
+      "rating": "",
+      "review": "test 456987",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt13622982",
+      "rating": "9",
+      "review": "test 45",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt1355642",
+      "rating": "7",
+      "review": "long show\n",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt10233448",
+      "rating": "7",
+      "review": "test",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "imdbId": "tt12343534",
+      "rating": "",
+      "review": "bad",
+      "id": 18
+    }
+  ],
+  "customers": [
+    {
+      "name": "Jacob Folley",
+      "address": "1717",
+      "email": "jacob@gmail.com",
+      "id": 1
+    }
+  ]
+}
